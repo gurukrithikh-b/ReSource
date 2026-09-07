@@ -1,0 +1,22 @@
+[
+  {
+    "id": "simulated-surplus-001",
+    "supplier": "Grand Horizon Hotel",
+    "title": "Buffet Dinner Surplus - Cooked Meals",
+    "quantity_kg": 350.0,
+    "perishability_hours": 12.0,
+    "storage": "REFRIGERATED",
+    "expires_at": "2026-09-07T21:00:00",
+    "is_simulated": true
+  },
+  {
+    "id": "simulated-surplus-002",
+    "supplier": "Bistro Verde Restaurant",
+    "title": "Fresh Artisan Bread & Pastries",
+    "quantity_kg": 15.0,
+    "perishability_hours": 24.0,
+    "storage": "AMBIENT",
+    "expires_at": "2026-09-08T04:19:05.363537",
+    "is_simulated": true
+  }
+]

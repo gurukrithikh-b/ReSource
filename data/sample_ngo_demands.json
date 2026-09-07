@@ -1,0 +1,22 @@
+[
+  {
+    "id": "simulated-demand-001",
+    "receiver": "Hope Community Shelter",
+    "title": "Evening Dinner Service - Hope Community Shelter",
+    "requested_quantity_kg": 180.0,
+    "urgency": "HIGH",
+    "required_by": "2026-09-07T20:00:00",
+    "storage_capacity": "REFRIGERATED",
+    "is_simulated": true
+  },
+  {
+    "id": "simulated-demand-002",
+    "receiver": "Metro Food Bank NGO",
+    "title": "Fresh Produce Request for Weekly Food Parcels",
+    "requested_quantity_kg": 50.0,
+    "urgency": "MEDIUM",
+    "required_by": "2026-09-09T04:19:05.363537",
+    "storage_capacity": "AMBIENT",
+    "is_simulated": true
+  }
+]

@@ -1,0 +1,1366 @@
+date,organization,organization_id,org_type,category,requested_quantity,unit,urgency,is_event_day,day_of_week,month,is_weekend,is_simulated
+2025-01-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,78.12,kg,MEDIUM,True,Wednesday,1,False,True
+2025-01-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,165.37,kg,CRITICAL,True,Wednesday,1,False,True
+2025-01-01,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,55.11,kg,CRITICAL,True,Wednesday,1,False,True
+2025-01-01,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,8.63,kg,LOW,True,Wednesday,1,False,True
+2025-01-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,90.78,kg,MEDIUM,True,Wednesday,1,False,True
+2025-01-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,65.31,kg,HIGH,True,Thursday,1,False,True
+2025-01-02,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,28.65,kg,HIGH,True,Thursday,1,False,True
+2025-01-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,50.58,kg,MEDIUM,True,Thursday,1,False,True
+2025-01-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,62.09,kg,HIGH,True,Friday,1,False,True
+2025-01-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,19.96,kg,CRITICAL,True,Friday,1,False,True
+2025-01-03,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,37.88,kg,HIGH,True,Friday,1,False,True
+2025-01-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,30.54,kg,HIGH,True,Friday,1,False,True
+2025-01-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,74.05,kg,MEDIUM,True,Saturday,1,True,True
+2025-01-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,165.42,kg,HIGH,True,Saturday,1,True,True
+2025-01-04,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,32.19,kg,HIGH,True,Saturday,1,True,True
+2025-01-04,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,29.33,kg,MEDIUM,True,Saturday,1,True,True
+2025-01-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,15.37,kg,MEDIUM,True,Saturday,1,True,True
+2025-01-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,86.22,kg,CRITICAL,True,Sunday,1,True,True
+2025-01-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,46.58,kg,MEDIUM,True,Sunday,1,True,True
+2025-01-05,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,8.58,kg,HIGH,True,Sunday,1,True,True
+2025-01-05,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,39.67,kg,MEDIUM,True,Sunday,1,True,True
+2025-01-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,101.97,kg,HIGH,True,Sunday,1,True,True
+2025-01-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,85.13,kg,HIGH,True,Monday,1,False,True
+2025-01-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,89.18,kg,MEDIUM,True,Tuesday,1,False,True
+2025-01-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.18,kg,CRITICAL,False,Wednesday,1,False,True
+2025-01-08,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.48,kg,CRITICAL,False,Wednesday,1,False,True
+2025-01-08,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,12.22,kg,LOW,False,Wednesday,1,False,True
+2025-01-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,28.63,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,55.93,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-09,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,28.42,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,61.17,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,99.57,kg,HIGH,False,Thursday,1,False,True
+2025-01-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,102.6,kg,MEDIUM,False,Friday,1,False,True
+2025-01-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,93.02,kg,MEDIUM,False,Friday,1,False,True
+2025-01-10,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,37.97,kg,MEDIUM,False,Friday,1,False,True
+2025-01-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,51.56,kg,HIGH,False,Friday,1,False,True
+2025-01-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,58.69,kg,HIGH,False,Saturday,1,True,True
+2025-01-11,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,14.22,kg,LOW,False,Saturday,1,True,True
+2025-01-11,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,33.16,kg,LOW,False,Saturday,1,True,True
+2025-01-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,92.86,kg,MEDIUM,False,Saturday,1,True,True
+2025-01-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,108.24,kg,CRITICAL,False,Sunday,1,True,True
+2025-01-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,178.16,kg,CRITICAL,False,Sunday,1,True,True
+2025-01-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,58.23,kg,HIGH,False,Sunday,1,True,True
+2025-01-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,9.63,kg,CRITICAL,False,Monday,1,False,True
+2025-01-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,69.02,kg,HIGH,False,Monday,1,False,True
+2025-01-13,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,9.82,kg,HIGH,False,Monday,1,False,True
+2025-01-13,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,6.04,kg,MEDIUM,False,Monday,1,False,True
+2025-01-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,79.5,kg,HIGH,False,Monday,1,False,True
+2025-01-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,23.37,kg,HIGH,False,Tuesday,1,False,True
+2025-01-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,161.43,kg,MEDIUM,False,Tuesday,1,False,True
+2025-01-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,14.16,kg,HIGH,False,Tuesday,1,False,True
+2025-01-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,21.67,kg,MEDIUM,False,Wednesday,1,False,True
+2025-01-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,137.55,kg,HIGH,False,Wednesday,1,False,True
+2025-01-15,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,25.04,kg,MEDIUM,False,Wednesday,1,False,True
+2025-01-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,43.02,kg,LOW,False,Wednesday,1,False,True
+2025-01-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,69.2,kg,HIGH,False,Wednesday,1,False,True
+2025-01-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,17.46,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,19.2,kg,HIGH,False,Thursday,1,False,True
+2025-01-16,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,34.38,kg,HIGH,False,Thursday,1,False,True
+2025-01-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,6.69,kg,HIGH,False,Thursday,1,False,True
+2025-01-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,67.5,kg,HIGH,False,Friday,1,False,True
+2025-01-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,9.82,kg,HIGH,False,Friday,1,False,True
+2025-01-17,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,48.99,kg,CRITICAL,False,Friday,1,False,True
+2025-01-17,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,73.35,kg,HIGH,False,Friday,1,False,True
+2025-01-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,63.7,kg,MEDIUM,False,Friday,1,False,True
+2025-01-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,45.9,kg,HIGH,False,Saturday,1,True,True
+2025-01-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,147.69,kg,MEDIUM,False,Saturday,1,True,True
+2025-01-18,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,16.54,kg,MEDIUM,False,Saturday,1,True,True
+2025-01-18,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,35.68,kg,HIGH,False,Saturday,1,True,True
+2025-01-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,15.35,kg,MEDIUM,False,Sunday,1,True,True
+2025-01-19,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,34.5,kg,LOW,False,Sunday,1,True,True
+2025-01-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,106.06,kg,MEDIUM,False,Sunday,1,True,True
+2025-01-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,39.3,kg,LOW,False,Monday,1,False,True
+2025-01-20,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,6.18,kg,HIGH,False,Monday,1,False,True
+2025-01-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,37.47,kg,HIGH,False,Tuesday,1,False,True
+2025-01-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,179.32,kg,MEDIUM,False,Tuesday,1,False,True
+2025-01-21,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,14.69,kg,HIGH,False,Tuesday,1,False,True
+2025-01-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,41.33,kg,MEDIUM,False,Tuesday,1,False,True
+2025-01-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,30.37,kg,LOW,False,Tuesday,1,False,True
+2025-01-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,46.69,kg,CRITICAL,False,Wednesday,1,False,True
+2025-01-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,90.65,kg,MEDIUM,False,Wednesday,1,False,True
+2025-01-22,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,65.58,kg,LOW,False,Wednesday,1,False,True
+2025-01-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,15.36,kg,LOW,False,Thursday,1,False,True
+2025-01-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,117.03,kg,HIGH,False,Thursday,1,False,True
+2025-01-23,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,46.96,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-23,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,23.22,kg,MEDIUM,False,Thursday,1,False,True
+2025-01-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,60.25,kg,LOW,False,Thursday,1,False,True
+2025-01-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,60.38,kg,CRITICAL,False,Friday,1,False,True
+2025-01-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,18.85,kg,MEDIUM,False,Friday,1,False,True
+2025-01-24,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,8.39,kg,MEDIUM,False,Friday,1,False,True
+2025-01-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,36.38,kg,MEDIUM,False,Friday,1,False,True
+2025-01-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,93.06,kg,HIGH,False,Saturday,1,True,True
+2025-01-25,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,14.58,kg,LOW,False,Saturday,1,True,True
+2025-01-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,82.46,kg,CRITICAL,False,Saturday,1,True,True
+2025-01-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,68.05,kg,HIGH,False,Sunday,1,True,True
+2025-01-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,171.78,kg,MEDIUM,False,Sunday,1,True,True
+2025-01-26,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.6,kg,MEDIUM,False,Sunday,1,True,True
+2025-01-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,41.36,kg,MEDIUM,False,Monday,1,False,True
+2025-01-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,168.1,kg,CRITICAL,False,Monday,1,False,True
+2025-01-27,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,51.21,kg,MEDIUM,False,Monday,1,False,True
+2025-01-27,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,37.77,kg,MEDIUM,False,Monday,1,False,True
+2025-01-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,60.37,kg,HIGH,False,Monday,1,False,True
+2025-01-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,64.44,kg,HIGH,False,Tuesday,1,False,True
+2025-01-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,19.54,kg,HIGH,False,Tuesday,1,False,True
+2025-01-28,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,15.56,kg,CRITICAL,False,Tuesday,1,False,True
+2025-01-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,23.85,kg,HIGH,False,Tuesday,1,False,True
+2025-01-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,142.03,kg,CRITICAL,False,Wednesday,1,False,True
+2025-01-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,240.9,kg,LOW,False,Wednesday,1,False,True
+2025-01-29,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,101.0,kg,MEDIUM,False,Wednesday,1,False,True
+2025-01-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,65.02,kg,MEDIUM,False,Wednesday,1,False,True
+2025-01-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,128.38,kg,HIGH,False,Thursday,1,False,True
+2025-01-30,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,20.75,kg,CRITICAL,False,Thursday,1,False,True
+2025-01-30,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,136.26,kg,HIGH,False,Thursday,1,False,True
+2025-01-31,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,17.2,kg,MEDIUM,False,Friday,1,False,True
+2025-01-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,83.16,kg,MEDIUM,False,Friday,1,False,True
+2025-01-31,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,80.58,kg,HIGH,False,Friday,1,False,True
+2025-01-31,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,35.95,kg,MEDIUM,False,Friday,1,False,True
+2025-01-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,147.37,kg,MEDIUM,False,Friday,1,False,True
+2025-02-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,69.43,kg,HIGH,False,Saturday,2,True,True
+2025-02-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,189.22,kg,HIGH,False,Saturday,2,True,True
+2025-02-01,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,15.05,kg,HIGH,False,Saturday,2,True,True
+2025-02-01,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,22.7,kg,LOW,False,Saturday,2,True,True
+2025-02-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,32.46,kg,HIGH,False,Sunday,2,True,True
+2025-02-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,177.35,kg,HIGH,False,Sunday,2,True,True
+2025-02-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,17.07,kg,MEDIUM,False,Sunday,2,True,True
+2025-02-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.05,kg,HIGH,False,Sunday,2,True,True
+2025-02-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,87.64,kg,HIGH,False,Monday,2,False,True
+2025-02-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,26.93,kg,CRITICAL,False,Monday,2,False,True
+2025-02-03,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,39.14,kg,HIGH,False,Monday,2,False,True
+2025-02-03,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,27.04,kg,HIGH,False,Monday,2,False,True
+2025-02-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,91.83,kg,HIGH,False,Tuesday,2,False,True
+2025-02-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,7.05,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,35.87,kg,HIGH,False,Tuesday,2,False,True
+2025-02-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,99.6,kg,HIGH,False,Wednesday,2,False,True
+2025-02-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,56.74,kg,CRITICAL,False,Wednesday,2,False,True
+2025-02-05,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,18.92,kg,HIGH,False,Wednesday,2,False,True
+2025-02-05,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,29.73,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,58.13,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,25.87,kg,HIGH,False,Thursday,2,False,True
+2025-02-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,22.74,kg,HIGH,False,Thursday,2,False,True
+2025-02-06,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,15.6,kg,MEDIUM,False,Thursday,2,False,True
+2025-02-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,59.31,kg,CRITICAL,False,Thursday,2,False,True
+2025-02-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,35.52,kg,CRITICAL,False,Friday,2,False,True
+2025-02-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,22.79,kg,HIGH,False,Friday,2,False,True
+2025-02-07,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,17.69,kg,HIGH,False,Friday,2,False,True
+2025-02-07,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,15.66,kg,MEDIUM,False,Friday,2,False,True
+2025-02-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,134.94,kg,HIGH,False,Friday,2,False,True
+2025-02-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,80.32,kg,MEDIUM,False,Saturday,2,True,True
+2025-02-08,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,66.98,kg,HIGH,False,Saturday,2,True,True
+2025-02-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,60.56,kg,MEDIUM,False,Sunday,2,True,True
+2025-02-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,149.85,kg,CRITICAL,False,Sunday,2,True,True
+2025-02-09,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,52.51,kg,HIGH,False,Sunday,2,True,True
+2025-02-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,38.13,kg,MEDIUM,False,Monday,2,False,True
+2025-02-10,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,25.83,kg,MEDIUM,False,Monday,2,False,True
+2025-02-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,85.85,kg,CRITICAL,False,Monday,2,False,True
+2025-02-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,20.43,kg,HIGH,False,Tuesday,2,False,True
+2025-02-11,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.64,kg,CRITICAL,False,Tuesday,2,False,True
+2025-02-11,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,43.14,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,116.91,kg,HIGH,False,Tuesday,2,False,True
+2025-02-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,62.89,kg,HIGH,False,Wednesday,2,False,True
+2025-02-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,21.76,kg,CRITICAL,False,Wednesday,2,False,True
+2025-02-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,89.36,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,29.21,kg,CRITICAL,False,Thursday,2,False,True
+2025-02-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,48.63,kg,HIGH,False,Thursday,2,False,True
+2025-02-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,56.14,kg,MEDIUM,False,Thursday,2,False,True
+2025-02-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,57.92,kg,MEDIUM,False,Friday,2,False,True
+2025-02-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,195.35,kg,HIGH,False,Friday,2,False,True
+2025-02-14,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,57.58,kg,HIGH,False,Friday,2,False,True
+2025-02-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,27.62,kg,MEDIUM,False,Friday,2,False,True
+2025-02-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,82.21,kg,HIGH,False,Saturday,2,True,True
+2025-02-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,45.68,kg,MEDIUM,False,Saturday,2,True,True
+2025-02-15,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,2.76,kg,HIGH,False,Saturday,2,True,True
+2025-02-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,17.23,kg,HIGH,False,Saturday,2,True,True
+2025-02-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,118.66,kg,MEDIUM,False,Sunday,2,True,True
+2025-02-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,159.87,kg,MEDIUM,False,Sunday,2,True,True
+2025-02-16,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,53.76,kg,HIGH,False,Sunday,2,True,True
+2025-02-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,84.34,kg,CRITICAL,False,Sunday,2,True,True
+2025-02-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,50.66,kg,MEDIUM,False,Monday,2,False,True
+2025-02-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,93.96,kg,LOW,False,Monday,2,False,True
+2025-02-17,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,54.04,kg,CRITICAL,False,Monday,2,False,True
+2025-02-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,99.08,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,51.09,kg,HIGH,False,Tuesday,2,False,True
+2025-02-18,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,4.83,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,111.35,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,73.41,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,122.28,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-19,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,26.35,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-19,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,65.09,kg,HIGH,False,Wednesday,2,False,True
+2025-02-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,86.86,kg,HIGH,False,Wednesday,2,False,True
+2025-02-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,59.7,kg,HIGH,False,Thursday,2,False,True
+2025-02-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,148.43,kg,MEDIUM,False,Thursday,2,False,True
+2025-02-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,68.17,kg,HIGH,False,Thursday,2,False,True
+2025-02-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,18.39,kg,HIGH,False,Friday,2,False,True
+2025-02-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,84.97,kg,HIGH,False,Friday,2,False,True
+2025-02-21,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,56.19,kg,CRITICAL,False,Friday,2,False,True
+2025-02-21,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,83.11,kg,HIGH,False,Friday,2,False,True
+2025-02-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,117.96,kg,HIGH,False,Friday,2,False,True
+2025-02-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,56.29,kg,MEDIUM,False,Saturday,2,True,True
+2025-02-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,55.92,kg,HIGH,False,Sunday,2,True,True
+2025-02-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,44.77,kg,HIGH,False,Sunday,2,True,True
+2025-02-23,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,5.61,kg,LOW,False,Sunday,2,True,True
+2025-02-23,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,8.89,kg,MEDIUM,False,Sunday,2,True,True
+2025-02-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,105.18,kg,MEDIUM,False,Sunday,2,True,True
+2025-02-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,108.53,kg,MEDIUM,False,Monday,2,False,True
+2025-02-24,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.5,kg,LOW,False,Monday,2,False,True
+2025-02-24,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,25.67,kg,HIGH,False,Monday,2,False,True
+2025-02-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,52.61,kg,CRITICAL,False,Monday,2,False,True
+2025-02-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,93.12,kg,LOW,False,Tuesday,2,False,True
+2025-02-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,125.65,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-25,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.13,kg,MEDIUM,False,Tuesday,2,False,True
+2025-02-25,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,69.03,kg,HIGH,False,Tuesday,2,False,True
+2025-02-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,68.52,kg,CRITICAL,False,Tuesday,2,False,True
+2025-02-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,49.25,kg,CRITICAL,False,Wednesday,2,False,True
+2025-02-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,215.47,kg,LOW,False,Wednesday,2,False,True
+2025-02-26,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,76.75,kg,HIGH,False,Wednesday,2,False,True
+2025-02-26,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,20.62,kg,MEDIUM,False,Wednesday,2,False,True
+2025-02-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,33.81,kg,HIGH,False,Wednesday,2,False,True
+2025-02-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,156.54,kg,HIGH,False,Thursday,2,False,True
+2025-02-27,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,10.3,kg,MEDIUM,False,Thursday,2,False,True
+2025-02-27,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,31.93,kg,HIGH,False,Thursday,2,False,True
+2025-02-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,80.71,kg,MEDIUM,False,Thursday,2,False,True
+2025-02-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,67.83,kg,HIGH,False,Friday,2,False,True
+2025-02-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,166.82,kg,MEDIUM,False,Friday,2,False,True
+2025-02-28,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,24.39,kg,MEDIUM,False,Friday,2,False,True
+2025-02-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,116.96,kg,HIGH,False,Friday,2,False,True
+2025-03-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,41.67,kg,HIGH,False,Saturday,3,True,True
+2025-03-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,42.11,kg,HIGH,False,Saturday,3,True,True
+2025-03-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,15.2,kg,HIGH,False,Sunday,3,True,True
+2025-03-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,43.38,kg,HIGH,False,Sunday,3,True,True
+2025-03-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,11.78,kg,HIGH,False,Sunday,3,True,True
+2025-03-02,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,27.46,kg,HIGH,False,Sunday,3,True,True
+2025-03-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,11.48,kg,LOW,False,Monday,3,False,True
+2025-03-03,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,21.73,kg,MEDIUM,False,Monday,3,False,True
+2025-03-03,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,37.93,kg,HIGH,False,Monday,3,False,True
+2025-03-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,42.6,kg,MEDIUM,False,Monday,3,False,True
+2025-03-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,15.89,kg,MEDIUM,False,Tuesday,3,False,True
+2025-03-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.52,kg,MEDIUM,False,Tuesday,3,False,True
+2025-03-04,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,109.76,kg,LOW,False,Tuesday,3,False,True
+2025-03-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,32.85,kg,HIGH,False,Tuesday,3,False,True
+2025-03-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,87.99,kg,MEDIUM,False,Wednesday,3,False,True
+2025-03-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,99.79,kg,MEDIUM,False,Thursday,3,False,True
+2025-03-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,120.66,kg,MEDIUM,False,Thursday,3,False,True
+2025-03-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,32.01,kg,HIGH,False,Thursday,3,False,True
+2025-03-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,36.37,kg,MEDIUM,False,Friday,3,False,True
+2025-03-07,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.78,kg,CRITICAL,False,Friday,3,False,True
+2025-03-07,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,17.22,kg,MEDIUM,False,Friday,3,False,True
+2025-03-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,79.53,kg,CRITICAL,False,Friday,3,False,True
+2025-03-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,36.71,kg,CRITICAL,False,Saturday,3,True,True
+2025-03-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,20.58,kg,MEDIUM,False,Saturday,3,True,True
+2025-03-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,50.26,kg,CRITICAL,False,Saturday,3,True,True
+2025-03-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,75.38,kg,MEDIUM,False,Sunday,3,True,True
+2025-03-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,218.65,kg,LOW,False,Sunday,3,True,True
+2025-03-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,14.37,kg,MEDIUM,False,Sunday,3,True,True
+2025-03-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,39.09,kg,HIGH,False,Sunday,3,True,True
+2025-03-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,102.33,kg,LOW,False,Monday,3,False,True
+2025-03-10,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,22.87,kg,MEDIUM,False,Monday,3,False,True
+2025-03-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,84.14,kg,MEDIUM,False,Monday,3,False,True
+2025-03-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,8.31,kg,HIGH,False,Tuesday,3,False,True
+2025-03-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,102.27,kg,MEDIUM,False,Tuesday,3,False,True
+2025-03-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,63.21,kg,HIGH,False,Tuesday,3,False,True
+2025-03-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,35.54,kg,CRITICAL,False,Wednesday,3,False,True
+2025-03-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,33.0,kg,MEDIUM,False,Wednesday,3,False,True
+2025-03-12,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,15.89,kg,MEDIUM,False,Wednesday,3,False,True
+2025-03-12,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,31.24,kg,MEDIUM,False,Wednesday,3,False,True
+2025-03-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,25.01,kg,LOW,False,Wednesday,3,False,True
+2025-03-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,115.22,kg,LOW,False,Thursday,3,False,True
+2025-03-13,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,30.44,kg,MEDIUM,False,Thursday,3,False,True
+2025-03-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,31.75,kg,HIGH,False,Friday,3,False,True
+2025-03-14,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,56.23,kg,MEDIUM,False,Friday,3,False,True
+2025-03-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.09,kg,HIGH,False,Friday,3,False,True
+2025-03-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,24.42,kg,CRITICAL,False,Saturday,3,True,True
+2025-03-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,79.5,kg,MEDIUM,False,Saturday,3,True,True
+2025-03-15,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.71,kg,MEDIUM,False,Saturday,3,True,True
+2025-03-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,43.61,kg,HIGH,False,Saturday,3,True,True
+2025-03-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,48.15,kg,MEDIUM,False,Sunday,3,True,True
+2025-03-16,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,18.46,kg,MEDIUM,False,Sunday,3,True,True
+2025-03-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,41.97,kg,HIGH,False,Sunday,3,True,True
+2025-03-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,72.41,kg,HIGH,False,Monday,3,False,True
+2025-03-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,54.01,kg,LOW,False,Monday,3,False,True
+2025-03-17,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,18.2,kg,MEDIUM,False,Monday,3,False,True
+2025-03-17,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,51.73,kg,MEDIUM,False,Monday,3,False,True
+2025-03-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,44.87,kg,CRITICAL,False,Monday,3,False,True
+2025-03-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,42.26,kg,HIGH,False,Tuesday,3,False,True
+2025-03-18,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,67.79,kg,MEDIUM,False,Tuesday,3,False,True
+2025-03-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,81.15,kg,HIGH,False,Tuesday,3,False,True
+2025-03-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,43.93,kg,HIGH,False,Wednesday,3,False,True
+2025-03-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,86.07,kg,MEDIUM,False,Wednesday,3,False,True
+2025-03-19,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,35.69,kg,LOW,False,Wednesday,3,False,True
+2025-03-19,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,8.28,kg,HIGH,False,Wednesday,3,False,True
+2025-03-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,77.86,kg,MEDIUM,False,Wednesday,3,False,True
+2025-03-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,31.98,kg,MEDIUM,False,Thursday,3,False,True
+2025-03-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,61.48,kg,MEDIUM,False,Thursday,3,False,True
+2025-03-20,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,83.84,kg,HIGH,False,Thursday,3,False,True
+2025-03-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,58.13,kg,HIGH,False,Thursday,3,False,True
+2025-03-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,46.94,kg,MEDIUM,False,Friday,3,False,True
+2025-03-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,21.78,kg,HIGH,False,Friday,3,False,True
+2025-03-21,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,14.79,kg,HIGH,False,Friday,3,False,True
+2025-03-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,46.02,kg,LOW,False,Friday,3,False,True
+2025-03-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,20.36,kg,HIGH,False,Friday,3,False,True
+2025-03-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,18.54,kg,HIGH,True,Saturday,3,True,True
+2025-03-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,158.91,kg,MEDIUM,True,Saturday,3,True,True
+2025-03-22,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,37.41,kg,MEDIUM,True,Saturday,3,True,True
+2025-03-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,67.08,kg,MEDIUM,True,Saturday,3,True,True
+2025-03-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,85.37,kg,HIGH,True,Sunday,3,True,True
+2025-03-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,32.98,kg,HIGH,True,Sunday,3,True,True
+2025-03-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,72.77,kg,HIGH,True,Monday,3,False,True
+2025-03-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,50.07,kg,LOW,True,Monday,3,False,True
+2025-03-24,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,30.53,kg,LOW,True,Monday,3,False,True
+2025-03-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,53.36,kg,LOW,True,Tuesday,3,False,True
+2025-03-25,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,28.26,kg,LOW,True,Tuesday,3,False,True
+2025-03-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,28.09,kg,MEDIUM,True,Tuesday,3,False,True
+2025-03-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,76.01,kg,MEDIUM,True,Wednesday,3,False,True
+2025-03-26,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,7.93,kg,HIGH,True,Wednesday,3,False,True
+2025-03-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,46.4,kg,MEDIUM,True,Wednesday,3,False,True
+2025-03-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,82.35,kg,HIGH,True,Thursday,3,False,True
+2025-03-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,34.99,kg,HIGH,True,Thursday,3,False,True
+2025-03-27,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,93.21,kg,MEDIUM,True,Thursday,3,False,True
+2025-03-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,82.64,kg,MEDIUM,True,Thursday,3,False,True
+2025-03-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,17.54,kg,CRITICAL,True,Friday,3,False,True
+2025-03-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,86.7,kg,HIGH,True,Friday,3,False,True
+2025-03-28,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,77.87,kg,LOW,True,Friday,3,False,True
+2025-03-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,105.46,kg,CRITICAL,True,Friday,3,False,True
+2025-03-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,155.76,kg,CRITICAL,False,Saturday,3,True,True
+2025-03-29,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,40.44,kg,HIGH,False,Saturday,3,True,True
+2025-03-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,111.54,kg,HIGH,False,Sunday,3,True,True
+2025-03-31,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,15.62,kg,CRITICAL,False,Monday,3,False,True
+2025-03-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,20.77,kg,HIGH,False,Monday,3,False,True
+2025-03-31,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,22.66,kg,MEDIUM,False,Monday,3,False,True
+2025-03-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,99.25,kg,MEDIUM,False,Monday,3,False,True
+2025-04-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,27.94,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,47.93,kg,HIGH,False,Tuesday,4,False,True
+2025-04-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,64.29,kg,HIGH,False,Tuesday,4,False,True
+2025-04-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,33.29,kg,HIGH,False,Wednesday,4,False,True
+2025-04-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,41.48,kg,HIGH,False,Wednesday,4,False,True
+2025-04-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.07,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-02,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,48.76,kg,LOW,False,Wednesday,4,False,True
+2025-04-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,37.83,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,33.82,kg,HIGH,False,Thursday,4,False,True
+2025-04-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,45.02,kg,MEDIUM,False,Thursday,4,False,True
+2025-04-03,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,34.59,kg,HIGH,False,Thursday,4,False,True
+2025-04-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,104.1,kg,HIGH,False,Thursday,4,False,True
+2025-04-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,52.1,kg,HIGH,False,Friday,4,False,True
+2025-04-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,5.28,kg,MEDIUM,False,Friday,4,False,True
+2025-04-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.21,kg,MEDIUM,False,Friday,4,False,True
+2025-04-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,46.56,kg,HIGH,False,Friday,4,False,True
+2025-04-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,23.84,kg,MEDIUM,False,Saturday,4,True,True
+2025-04-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,189.12,kg,MEDIUM,False,Saturday,4,True,True
+2025-04-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,31.24,kg,HIGH,False,Saturday,4,True,True
+2025-04-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,26.13,kg,LOW,False,Sunday,4,True,True
+2025-04-06,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,29.35,kg,MEDIUM,False,Sunday,4,True,True
+2025-04-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,35.02,kg,CRITICAL,False,Sunday,4,True,True
+2025-04-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,60.82,kg,CRITICAL,False,Monday,4,False,True
+2025-04-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,14.65,kg,MEDIUM,False,Monday,4,False,True
+2025-04-07,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,16.99,kg,HIGH,False,Monday,4,False,True
+2025-04-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,38.73,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,26.31,kg,HIGH,False,Tuesday,4,False,True
+2025-04-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,25.08,kg,HIGH,False,Tuesday,4,False,True
+2025-04-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,26.44,kg,HIGH,False,Wednesday,4,False,True
+2025-04-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,94.99,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-09,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,24.78,kg,HIGH,False,Wednesday,4,False,True
+2025-04-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,32.93,kg,LOW,False,Wednesday,4,False,True
+2025-04-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,15.09,kg,HIGH,False,Wednesday,4,False,True
+2025-04-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,80.58,kg,MEDIUM,False,Thursday,4,False,True
+2025-04-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,44.79,kg,CRITICAL,False,Thursday,4,False,True
+2025-04-10,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,30.29,kg,MEDIUM,False,Thursday,4,False,True
+2025-04-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,16.13,kg,MEDIUM,False,Thursday,4,False,True
+2025-04-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,29.48,kg,LOW,False,Friday,4,False,True
+2025-04-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,24.88,kg,MEDIUM,False,Friday,4,False,True
+2025-04-11,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,14.57,kg,LOW,False,Friday,4,False,True
+2025-04-11,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,28.21,kg,MEDIUM,False,Friday,4,False,True
+2025-04-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,22.8,kg,HIGH,False,Friday,4,False,True
+2025-04-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,76.99,kg,CRITICAL,False,Saturday,4,True,True
+2025-04-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,29.15,kg,MEDIUM,False,Saturday,4,True,True
+2025-04-12,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,52.89,kg,LOW,False,Saturday,4,True,True
+2025-04-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,57.35,kg,CRITICAL,False,Saturday,4,True,True
+2025-04-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,122.14,kg,MEDIUM,False,Sunday,4,True,True
+2025-04-13,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,12.32,kg,HIGH,False,Sunday,4,True,True
+2025-04-13,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,59.89,kg,MEDIUM,False,Sunday,4,True,True
+2025-04-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,77.24,kg,LOW,False,Sunday,4,True,True
+2025-04-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,12.8,kg,HIGH,False,Monday,4,False,True
+2025-04-14,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,44.39,kg,HIGH,False,Monday,4,False,True
+2025-04-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,36.07,kg,HIGH,False,Monday,4,False,True
+2025-04-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,36.45,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-15,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,21.5,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,18.11,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,68.29,kg,HIGH,False,Wednesday,4,False,True
+2025-04-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,38.7,kg,HIGH,False,Wednesday,4,False,True
+2025-04-16,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,31.25,kg,CRITICAL,False,Wednesday,4,False,True
+2025-04-16,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,28.53,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,82.65,kg,HIGH,False,Wednesday,4,False,True
+2025-04-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.18,kg,HIGH,False,Thursday,4,False,True
+2025-04-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,101.53,kg,HIGH,False,Thursday,4,False,True
+2025-04-17,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,39.75,kg,HIGH,False,Thursday,4,False,True
+2025-04-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,73.7,kg,HIGH,False,Thursday,4,False,True
+2025-04-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,65.14,kg,HIGH,False,Friday,4,False,True
+2025-04-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,52.2,kg,MEDIUM,False,Friday,4,False,True
+2025-04-18,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,20.51,kg,MEDIUM,False,Friday,4,False,True
+2025-04-18,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,86.75,kg,HIGH,False,Friday,4,False,True
+2025-04-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,45.05,kg,HIGH,False,Saturday,4,True,True
+2025-04-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,35.35,kg,LOW,False,Saturday,4,True,True
+2025-04-19,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.52,kg,LOW,False,Saturday,4,True,True
+2025-04-19,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,45.92,kg,CRITICAL,False,Saturday,4,True,True
+2025-04-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,41.52,kg,CRITICAL,False,Saturday,4,True,True
+2025-04-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,13.77,kg,MEDIUM,False,Sunday,4,True,True
+2025-04-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,44.12,kg,HIGH,False,Sunday,4,True,True
+2025-04-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,32.06,kg,HIGH,False,Sunday,4,True,True
+2025-04-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,18.39,kg,MEDIUM,False,Monday,4,False,True
+2025-04-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,78.42,kg,MEDIUM,False,Monday,4,False,True
+2025-04-21,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.58,kg,MEDIUM,False,Monday,4,False,True
+2025-04-21,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,10.07,kg,HIGH,False,Monday,4,False,True
+2025-04-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.26,kg,HIGH,False,Monday,4,False,True
+2025-04-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,70.62,kg,HIGH,False,Tuesday,4,False,True
+2025-04-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,15.36,kg,HIGH,False,Tuesday,4,False,True
+2025-04-22,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,8.57,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-22,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,30.81,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,21.98,kg,HIGH,False,Tuesday,4,False,True
+2025-04-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,41.85,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,136.65,kg,HIGH,False,Wednesday,4,False,True
+2025-04-23,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,26.25,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-23,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,23.9,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,25.59,kg,CRITICAL,False,Wednesday,4,False,True
+2025-04-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,23.37,kg,HIGH,False,Thursday,4,False,True
+2025-04-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,51.48,kg,MEDIUM,False,Thursday,4,False,True
+2025-04-24,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,10.95,kg,HIGH,False,Thursday,4,False,True
+2025-04-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,56.54,kg,MEDIUM,False,Thursday,4,False,True
+2025-04-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,22.92,kg,MEDIUM,False,Friday,4,False,True
+2025-04-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,114.98,kg,HIGH,False,Friday,4,False,True
+2025-04-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.13,kg,CRITICAL,False,Friday,4,False,True
+2025-04-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,150.79,kg,MEDIUM,False,Saturday,4,True,True
+2025-04-26,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,68.32,kg,HIGH,False,Saturday,4,True,True
+2025-04-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,61.6,kg,CRITICAL,False,Saturday,4,True,True
+2025-04-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,11.0,kg,CRITICAL,False,Sunday,4,True,True
+2025-04-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,63.9,kg,MEDIUM,False,Sunday,4,True,True
+2025-04-27,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,12.13,kg,MEDIUM,False,Sunday,4,True,True
+2025-04-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,72.31,kg,HIGH,False,Sunday,4,True,True
+2025-04-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,102.93,kg,HIGH,False,Monday,4,False,True
+2025-04-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,46.91,kg,HIGH,False,Monday,4,False,True
+2025-04-28,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,17.56,kg,LOW,False,Monday,4,False,True
+2025-04-28,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,39.51,kg,MEDIUM,False,Monday,4,False,True
+2025-04-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,74.79,kg,MEDIUM,False,Monday,4,False,True
+2025-04-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,69.09,kg,HIGH,False,Tuesday,4,False,True
+2025-04-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,101.15,kg,CRITICAL,False,Tuesday,4,False,True
+2025-04-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,79.17,kg,MEDIUM,False,Tuesday,4,False,True
+2025-04-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,15.68,kg,HIGH,False,Wednesday,4,False,True
+2025-04-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,66.93,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-30,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,99.3,kg,MEDIUM,False,Wednesday,4,False,True
+2025-04-30,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,81.46,kg,MEDIUM,False,Wednesday,4,False,True
+2025-05-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,50.35,kg,HIGH,False,Thursday,5,False,True
+2025-05-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,5.53,kg,HIGH,False,Thursday,5,False,True
+2025-05-01,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,30.83,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,14.7,kg,HIGH,False,Thursday,5,False,True
+2025-05-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,6.76,kg,MEDIUM,False,Friday,5,False,True
+2025-05-02,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,20.89,kg,MEDIUM,False,Friday,5,False,True
+2025-05-02,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,9.27,kg,LOW,False,Friday,5,False,True
+2025-05-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,83.75,kg,HIGH,False,Saturday,5,True,True
+2025-05-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,29.0,kg,HIGH,False,Saturday,5,True,True
+2025-05-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,74.09,kg,HIGH,False,Sunday,5,True,True
+2025-05-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,148.02,kg,MEDIUM,False,Sunday,5,True,True
+2025-05-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,32.6,kg,HIGH,False,Sunday,5,True,True
+2025-05-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,114.93,kg,HIGH,False,Monday,5,False,True
+2025-05-05,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,22.81,kg,MEDIUM,False,Monday,5,False,True
+2025-05-05,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,24.34,kg,MEDIUM,False,Monday,5,False,True
+2025-05-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,73.2,kg,HIGH,False,Monday,5,False,True
+2025-05-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,90.32,kg,MEDIUM,False,Tuesday,5,False,True
+2025-05-06,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,15.31,kg,MEDIUM,False,Tuesday,5,False,True
+2025-05-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,30.65,kg,HIGH,False,Wednesday,5,False,True
+2025-05-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,33.42,kg,HIGH,False,Wednesday,5,False,True
+2025-05-07,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,86.4,kg,LOW,False,Wednesday,5,False,True
+2025-05-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,76.32,kg,HIGH,False,Wednesday,5,False,True
+2025-05-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,4.69,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,99.64,kg,HIGH,False,Thursday,5,False,True
+2025-05-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,34.43,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-08,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,70.32,kg,LOW,False,Thursday,5,False,True
+2025-05-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,46.43,kg,HIGH,False,Thursday,5,False,True
+2025-05-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,39.23,kg,MEDIUM,False,Friday,5,False,True
+2025-05-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,37.49,kg,MEDIUM,False,Friday,5,False,True
+2025-05-09,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,31.06,kg,HIGH,False,Friday,5,False,True
+2025-05-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,53.99,kg,HIGH,False,Friday,5,False,True
+2025-05-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,52.17,kg,HIGH,False,Saturday,5,True,True
+2025-05-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,23.63,kg,MEDIUM,False,Saturday,5,True,True
+2025-05-10,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,6.27,kg,CRITICAL,False,Saturday,5,True,True
+2025-05-10,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,30.61,kg,MEDIUM,False,Saturday,5,True,True
+2025-05-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,95.46,kg,CRITICAL,False,Saturday,5,True,True
+2025-05-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,104.14,kg,HIGH,False,Sunday,5,True,True
+2025-05-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,109.04,kg,HIGH,False,Sunday,5,True,True
+2025-05-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,77.7,kg,HIGH,False,Sunday,5,True,True
+2025-05-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,71.59,kg,CRITICAL,False,Monday,5,False,True
+2025-05-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,141.11,kg,MEDIUM,False,Monday,5,False,True
+2025-05-12,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,5.39,kg,HIGH,False,Monday,5,False,True
+2025-05-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,10.38,kg,LOW,False,Tuesday,5,False,True
+2025-05-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,94.85,kg,MEDIUM,False,Tuesday,5,False,True
+2025-05-13,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,21.98,kg,HIGH,False,Tuesday,5,False,True
+2025-05-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,65.74,kg,HIGH,False,Wednesday,5,False,True
+2025-05-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,64.21,kg,HIGH,False,Wednesday,5,False,True
+2025-05-14,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.14,kg,MEDIUM,False,Wednesday,5,False,True
+2025-05-14,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,45.75,kg,HIGH,False,Wednesday,5,False,True
+2025-05-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,154.52,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,27.4,kg,LOW,False,Thursday,5,False,True
+2025-05-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,50.46,kg,HIGH,False,Friday,5,False,True
+2025-05-16,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,5.07,kg,HIGH,False,Friday,5,False,True
+2025-05-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,48.55,kg,HIGH,False,Friday,5,False,True
+2025-05-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,74.51,kg,CRITICAL,False,Saturday,5,True,True
+2025-05-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,23.12,kg,LOW,False,Saturday,5,True,True
+2025-05-17,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,2.83,kg,LOW,False,Saturday,5,True,True
+2025-05-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,61.84,kg,MEDIUM,False,Saturday,5,True,True
+2025-05-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,36.74,kg,HIGH,False,Sunday,5,True,True
+2025-05-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,203.69,kg,HIGH,False,Sunday,5,True,True
+2025-05-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,33.69,kg,HIGH,False,Monday,5,False,True
+2025-05-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,26.89,kg,MEDIUM,False,Monday,5,False,True
+2025-05-19,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,20.27,kg,MEDIUM,False,Monday,5,False,True
+2025-05-19,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,43.4,kg,CRITICAL,False,Monday,5,False,True
+2025-05-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,20.04,kg,HIGH,False,Monday,5,False,True
+2025-05-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,38.24,kg,LOW,False,Tuesday,5,False,True
+2025-05-20,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,12.38,kg,LOW,False,Tuesday,5,False,True
+2025-05-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,88.75,kg,CRITICAL,False,Tuesday,5,False,True
+2025-05-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,26.72,kg,HIGH,False,Wednesday,5,False,True
+2025-05-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,24.24,kg,LOW,False,Wednesday,5,False,True
+2025-05-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,27.01,kg,HIGH,False,Wednesday,5,False,True
+2025-05-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,93.69,kg,MEDIUM,True,Thursday,5,False,True
+2025-05-22,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,4.27,kg,HIGH,True,Thursday,5,False,True
+2025-05-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,36.79,kg,CRITICAL,True,Thursday,5,False,True
+2025-05-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,51.6,kg,CRITICAL,True,Friday,5,False,True
+2025-05-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,109.96,kg,CRITICAL,True,Friday,5,False,True
+2025-05-23,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,23.21,kg,MEDIUM,True,Friday,5,False,True
+2025-05-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,24.14,kg,CRITICAL,True,Friday,5,False,True
+2025-05-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,20.31,kg,MEDIUM,True,Saturday,5,True,True
+2025-05-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,51.29,kg,MEDIUM,True,Saturday,5,True,True
+2025-05-24,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,67.11,kg,MEDIUM,True,Saturday,5,True,True
+2025-05-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,87.98,kg,CRITICAL,True,Saturday,5,True,True
+2025-05-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,19.72,kg,HIGH,True,Sunday,5,True,True
+2025-05-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,212.37,kg,MEDIUM,True,Sunday,5,True,True
+2025-05-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,20.11,kg,HIGH,True,Sunday,5,True,True
+2025-05-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,45.03,kg,HIGH,True,Monday,5,False,True
+2025-05-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,25.3,kg,CRITICAL,True,Monday,5,False,True
+2025-05-26,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.4,kg,MEDIUM,True,Monday,5,False,True
+2025-05-26,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,9.74,kg,HIGH,True,Monday,5,False,True
+2025-05-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,22.56,kg,CRITICAL,True,Monday,5,False,True
+2025-05-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,69.18,kg,HIGH,True,Tuesday,5,False,True
+2025-05-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,35.86,kg,MEDIUM,True,Tuesday,5,False,True
+2025-05-27,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,54.05,kg,CRITICAL,True,Tuesday,5,False,True
+2025-05-27,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,39.03,kg,MEDIUM,True,Tuesday,5,False,True
+2025-05-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,55.82,kg,HIGH,True,Wednesday,5,False,True
+2025-05-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,92.59,kg,HIGH,True,Wednesday,5,False,True
+2025-05-28,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.15,kg,HIGH,True,Wednesday,5,False,True
+2025-05-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,93.02,kg,HIGH,True,Wednesday,5,False,True
+2025-05-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,162.41,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-29,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,10.81,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-29,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,14.56,kg,MEDIUM,False,Thursday,5,False,True
+2025-05-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,69.21,kg,HIGH,False,Thursday,5,False,True
+2025-05-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,91.72,kg,HIGH,False,Friday,5,False,True
+2025-05-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,23.02,kg,CRITICAL,False,Friday,5,False,True
+2025-05-30,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,11.92,kg,MEDIUM,False,Friday,5,False,True
+2025-05-30,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,44.96,kg,MEDIUM,False,Friday,5,False,True
+2025-05-31,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,76.0,kg,HIGH,False,Saturday,5,True,True
+2025-05-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,113.47,kg,MEDIUM,False,Saturday,5,True,True
+2025-05-31,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,5.37,kg,LOW,False,Saturday,5,True,True
+2025-05-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,34.1,kg,CRITICAL,False,Saturday,5,True,True
+2025-06-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,14.91,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,167.99,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,48.48,kg,HIGH,False,Sunday,6,True,True
+2025-06-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,39.04,kg,HIGH,False,Monday,6,False,True
+2025-06-02,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,10.88,kg,MEDIUM,False,Monday,6,False,True
+2025-06-02,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,35.16,kg,CRITICAL,False,Monday,6,False,True
+2025-06-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,49.99,kg,MEDIUM,False,Monday,6,False,True
+2025-06-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,138.65,kg,HIGH,False,Tuesday,6,False,True
+2025-06-03,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,20.72,kg,HIGH,False,Tuesday,6,False,True
+2025-06-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,42.89,kg,HIGH,False,Tuesday,6,False,True
+2025-06-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,26.71,kg,CRITICAL,False,Wednesday,6,False,True
+2025-06-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.62,kg,HIGH,False,Wednesday,6,False,True
+2025-06-04,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,80.88,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,24.93,kg,HIGH,False,Wednesday,6,False,True
+2025-06-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,17.37,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,34.88,kg,CRITICAL,False,Thursday,6,False,True
+2025-06-05,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.8,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,51.92,kg,HIGH,False,Thursday,6,False,True
+2025-06-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,15.59,kg,HIGH,False,Friday,6,False,True
+2025-06-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,60.44,kg,MEDIUM,False,Friday,6,False,True
+2025-06-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,87.54,kg,CRITICAL,False,Saturday,6,True,True
+2025-06-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,16.21,kg,MEDIUM,False,Saturday,6,True,True
+2025-06-07,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,44.54,kg,HIGH,False,Saturday,6,True,True
+2025-06-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.31,kg,MEDIUM,False,Saturday,6,True,True
+2025-06-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,17.67,kg,CRITICAL,False,Sunday,6,True,True
+2025-06-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,58.92,kg,LOW,False,Sunday,6,True,True
+2025-06-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,22.76,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-08,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,25.94,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,43.94,kg,LOW,False,Sunday,6,True,True
+2025-06-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,12.19,kg,MEDIUM,False,Monday,6,False,True
+2025-06-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,13.96,kg,HIGH,False,Monday,6,False,True
+2025-06-09,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,8.52,kg,MEDIUM,False,Monday,6,False,True
+2025-06-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,42.1,kg,HIGH,False,Monday,6,False,True
+2025-06-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,17.0,kg,HIGH,False,Monday,6,False,True
+2025-06-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,34.64,kg,HIGH,False,Tuesday,6,False,True
+2025-06-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,34.03,kg,CRITICAL,False,Tuesday,6,False,True
+2025-06-10,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,40.56,kg,MEDIUM,False,Tuesday,6,False,True
+2025-06-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,46.16,kg,HIGH,False,Tuesday,6,False,True
+2025-06-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,29.84,kg,HIGH,False,Wednesday,6,False,True
+2025-06-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,43.41,kg,HIGH,False,Wednesday,6,False,True
+2025-06-11,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,2.08,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-11,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,10.31,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,49.82,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,47.87,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,51.46,kg,LOW,False,Thursday,6,False,True
+2025-06-12,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,29.69,kg,HIGH,False,Thursday,6,False,True
+2025-06-12,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,44.56,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,39.22,kg,HIGH,False,Thursday,6,False,True
+2025-06-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,10.53,kg,MEDIUM,False,Friday,6,False,True
+2025-06-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,140.41,kg,HIGH,False,Friday,6,False,True
+2025-06-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,68.53,kg,HIGH,False,Friday,6,False,True
+2025-06-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,48.92,kg,HIGH,False,Saturday,6,True,True
+2025-06-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,85.39,kg,HIGH,False,Saturday,6,True,True
+2025-06-14,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.3,kg,HIGH,False,Saturday,6,True,True
+2025-06-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,25.68,kg,CRITICAL,False,Saturday,6,True,True
+2025-06-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.39,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,91.0,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,70.44,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,47.98,kg,MEDIUM,False,Monday,6,False,True
+2025-06-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,4.94,kg,MEDIUM,False,Monday,6,False,True
+2025-06-16,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.47,kg,CRITICAL,False,Monday,6,False,True
+2025-06-16,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,71.66,kg,MEDIUM,False,Monday,6,False,True
+2025-06-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,62.57,kg,MEDIUM,False,Monday,6,False,True
+2025-06-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,28.54,kg,HIGH,False,Tuesday,6,False,True
+2025-06-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,26.77,kg,CRITICAL,False,Tuesday,6,False,True
+2025-06-17,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,37.53,kg,MEDIUM,False,Tuesday,6,False,True
+2025-06-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,66.78,kg,MEDIUM,False,Tuesday,6,False,True
+2025-06-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,53.76,kg,HIGH,False,Wednesday,6,False,True
+2025-06-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,107.3,kg,HIGH,False,Wednesday,6,False,True
+2025-06-18,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,26.1,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-18,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,14.67,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,97.61,kg,HIGH,False,Wednesday,6,False,True
+2025-06-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,69.81,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,10.49,kg,CRITICAL,False,Thursday,6,False,True
+2025-06-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.68,kg,HIGH,False,Friday,6,False,True
+2025-06-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,29.04,kg,MEDIUM,False,Friday,6,False,True
+2025-06-20,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.95,kg,MEDIUM,False,Friday,6,False,True
+2025-06-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,64.64,kg,HIGH,False,Friday,6,False,True
+2025-06-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,16.31,kg,MEDIUM,False,Saturday,6,True,True
+2025-06-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,167.03,kg,MEDIUM,False,Saturday,6,True,True
+2025-06-21,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,8.07,kg,LOW,False,Saturday,6,True,True
+2025-06-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,11.82,kg,MEDIUM,False,Saturday,6,True,True
+2025-06-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,15.96,kg,HIGH,False,Saturday,6,True,True
+2025-06-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,19.06,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,4.64,kg,LOW,False,Sunday,6,True,True
+2025-06-22,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,25.8,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,51.82,kg,CRITICAL,False,Sunday,6,True,True
+2025-06-23,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,13.22,kg,HIGH,False,Monday,6,False,True
+2025-06-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,10.1,kg,CRITICAL,False,Monday,6,False,True
+2025-06-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,42.75,kg,MEDIUM,False,Tuesday,6,False,True
+2025-06-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,11.99,kg,HIGH,False,Tuesday,6,False,True
+2025-06-24,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.94,kg,HIGH,False,Tuesday,6,False,True
+2025-06-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.58,kg,LOW,False,Tuesday,6,False,True
+2025-06-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,55.7,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,37.66,kg,HIGH,False,Wednesday,6,False,True
+2025-06-25,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,2.67,kg,HIGH,False,Wednesday,6,False,True
+2025-06-25,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,24.82,kg,HIGH,False,Wednesday,6,False,True
+2025-06-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,57.43,kg,MEDIUM,False,Wednesday,6,False,True
+2025-06-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,75.52,kg,HIGH,False,Thursday,6,False,True
+2025-06-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,73.3,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-26,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,22.74,kg,HIGH,False,Thursday,6,False,True
+2025-06-26,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,11.8,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,34.45,kg,MEDIUM,False,Thursday,6,False,True
+2025-06-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,89.57,kg,CRITICAL,False,Friday,6,False,True
+2025-06-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,53.18,kg,CRITICAL,False,Friday,6,False,True
+2025-06-27,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,30.19,kg,MEDIUM,False,Friday,6,False,True
+2025-06-27,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,50.97,kg,MEDIUM,False,Friday,6,False,True
+2025-06-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,58.92,kg,HIGH,False,Friday,6,False,True
+2025-06-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,123.81,kg,HIGH,False,Saturday,6,True,True
+2025-06-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,371.02,kg,HIGH,False,Saturday,6,True,True
+2025-06-28,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,38.2,kg,MEDIUM,False,Saturday,6,True,True
+2025-06-28,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,59.73,kg,HIGH,False,Saturday,6,True,True
+2025-06-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,59.96,kg,CRITICAL,False,Saturday,6,True,True
+2025-06-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,124.92,kg,HIGH,False,Sunday,6,True,True
+2025-06-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,155.51,kg,MEDIUM,False,Sunday,6,True,True
+2025-06-29,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,16.43,kg,HIGH,False,Sunday,6,True,True
+2025-06-29,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,114.88,kg,HIGH,False,Sunday,6,True,True
+2025-06-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,76.42,kg,CRITICAL,False,Sunday,6,True,True
+2025-06-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,12.16,kg,HIGH,False,Monday,6,False,True
+2025-06-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,24.04,kg,MEDIUM,False,Monday,6,False,True
+2025-06-30,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,42.5,kg,MEDIUM,False,Monday,6,False,True
+2025-07-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,50.11,kg,HIGH,True,Tuesday,7,False,True
+2025-07-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,11.91,kg,MEDIUM,True,Tuesday,7,False,True
+2025-07-01,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.0,kg,HIGH,True,Tuesday,7,False,True
+2025-07-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,45.12,kg,HIGH,True,Tuesday,7,False,True
+2025-07-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,31.52,kg,HIGH,True,Wednesday,7,False,True
+2025-07-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,159.73,kg,HIGH,True,Wednesday,7,False,True
+2025-07-02,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,5.23,kg,MEDIUM,True,Wednesday,7,False,True
+2025-07-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,21.57,kg,CRITICAL,True,Thursday,7,False,True
+2025-07-03,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,11.08,kg,MEDIUM,True,Thursday,7,False,True
+2025-07-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,67.18,kg,CRITICAL,True,Thursday,7,False,True
+2025-07-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,8.7,kg,MEDIUM,True,Friday,7,False,True
+2025-07-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,44.94,kg,MEDIUM,True,Friday,7,False,True
+2025-07-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,9.23,kg,HIGH,True,Friday,7,False,True
+2025-07-04,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,15.62,kg,LOW,True,Friday,7,False,True
+2025-07-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,209.95,kg,MEDIUM,True,Saturday,7,True,True
+2025-07-05,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,11.74,kg,MEDIUM,True,Saturday,7,True,True
+2025-07-05,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,28.36,kg,HIGH,True,Saturday,7,True,True
+2025-07-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,42.11,kg,MEDIUM,True,Saturday,7,True,True
+2025-07-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,53.17,kg,HIGH,True,Sunday,7,True,True
+2025-07-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,64.41,kg,MEDIUM,True,Sunday,7,True,True
+2025-07-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,23.45,kg,HIGH,True,Sunday,7,True,True
+2025-07-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,69.57,kg,CRITICAL,True,Monday,7,False,True
+2025-07-07,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,5.97,kg,LOW,True,Monday,7,False,True
+2025-07-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,16.05,kg,CRITICAL,True,Monday,7,False,True
+2025-07-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,39.67,kg,MEDIUM,False,Tuesday,7,False,True
+2025-07-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,169.26,kg,LOW,False,Tuesday,7,False,True
+2025-07-08,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,17.96,kg,MEDIUM,False,Tuesday,7,False,True
+2025-07-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,13.75,kg,HIGH,False,Tuesday,7,False,True
+2025-07-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,58.49,kg,MEDIUM,False,Wednesday,7,False,True
+2025-07-09,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,20.96,kg,HIGH,False,Wednesday,7,False,True
+2025-07-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,32.01,kg,MEDIUM,False,Wednesday,7,False,True
+2025-07-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,18.8,kg,HIGH,False,Wednesday,7,False,True
+2025-07-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,61.47,kg,CRITICAL,False,Thursday,7,False,True
+2025-07-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,36.22,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-10,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,22.35,kg,HIGH,False,Thursday,7,False,True
+2025-07-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,61.83,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,73.94,kg,HIGH,False,Friday,7,False,True
+2025-07-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,49.36,kg,MEDIUM,False,Friday,7,False,True
+2025-07-11,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,5.49,kg,LOW,False,Friday,7,False,True
+2025-07-11,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,14.07,kg,LOW,False,Friday,7,False,True
+2025-07-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,26.28,kg,MEDIUM,False,Friday,7,False,True
+2025-07-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,52.74,kg,MEDIUM,False,Saturday,7,True,True
+2025-07-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,72.37,kg,HIGH,False,Saturday,7,True,True
+2025-07-12,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,16.31,kg,MEDIUM,False,Saturday,7,True,True
+2025-07-12,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,36.08,kg,HIGH,False,Saturday,7,True,True
+2025-07-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,30.07,kg,HIGH,False,Sunday,7,True,True
+2025-07-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,139.95,kg,HIGH,False,Sunday,7,True,True
+2025-07-13,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,81.68,kg,MEDIUM,False,Sunday,7,True,True
+2025-07-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,23.05,kg,MEDIUM,False,Sunday,7,True,True
+2025-07-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,23.34,kg,MEDIUM,False,Monday,7,False,True
+2025-07-14,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,36.11,kg,CRITICAL,False,Monday,7,False,True
+2025-07-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,38.25,kg,HIGH,False,Monday,7,False,True
+2025-07-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,87.21,kg,CRITICAL,False,Tuesday,7,False,True
+2025-07-15,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,15.87,kg,HIGH,False,Tuesday,7,False,True
+2025-07-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,12.43,kg,MEDIUM,False,Tuesday,7,False,True
+2025-07-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,23.87,kg,CRITICAL,False,Wednesday,7,False,True
+2025-07-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,121.64,kg,LOW,False,Wednesday,7,False,True
+2025-07-16,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,15.15,kg,MEDIUM,False,Wednesday,7,False,True
+2025-07-16,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,24.67,kg,HIGH,False,Wednesday,7,False,True
+2025-07-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,74.27,kg,MEDIUM,False,Wednesday,7,False,True
+2025-07-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,20.69,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,38.25,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-17,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,12.12,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-17,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,41.61,kg,HIGH,False,Thursday,7,False,True
+2025-07-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,45.72,kg,HIGH,False,Thursday,7,False,True
+2025-07-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,10.58,kg,CRITICAL,False,Friday,7,False,True
+2025-07-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,112.14,kg,CRITICAL,False,Friday,7,False,True
+2025-07-18,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,9.65,kg,MEDIUM,False,Friday,7,False,True
+2025-07-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,49.49,kg,HIGH,False,Friday,7,False,True
+2025-07-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,9.38,kg,MEDIUM,False,Saturday,7,True,True
+2025-07-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,43.73,kg,MEDIUM,False,Saturday,7,True,True
+2025-07-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,113.7,kg,HIGH,False,Saturday,7,True,True
+2025-07-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,55.14,kg,HIGH,False,Sunday,7,True,True
+2025-07-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,40.28,kg,HIGH,False,Sunday,7,True,True
+2025-07-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,57.85,kg,HIGH,False,Sunday,7,True,True
+2025-07-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,59.16,kg,HIGH,False,Monday,7,False,True
+2025-07-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,13.36,kg,LOW,False,Monday,7,False,True
+2025-07-21,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,8.58,kg,MEDIUM,False,Monday,7,False,True
+2025-07-21,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,16.43,kg,HIGH,False,Monday,7,False,True
+2025-07-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,81.91,kg,MEDIUM,False,Tuesday,7,False,True
+2025-07-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,45.02,kg,MEDIUM,False,Tuesday,7,False,True
+2025-07-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,47.98,kg,HIGH,False,Tuesday,7,False,True
+2025-07-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,21.5,kg,CRITICAL,False,Wednesday,7,False,True
+2025-07-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,31.09,kg,HIGH,False,Wednesday,7,False,True
+2025-07-23,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,5.13,kg,MEDIUM,False,Wednesday,7,False,True
+2025-07-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,19.98,kg,CRITICAL,False,Wednesday,7,False,True
+2025-07-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,46.48,kg,HIGH,False,Thursday,7,False,True
+2025-07-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,160.09,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-24,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,23.07,kg,HIGH,False,Thursday,7,False,True
+2025-07-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,17.85,kg,MEDIUM,False,Thursday,7,False,True
+2025-07-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,23.53,kg,HIGH,False,Friday,7,False,True
+2025-07-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,19.34,kg,HIGH,False,Friday,7,False,True
+2025-07-25,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,15.95,kg,MEDIUM,False,Friday,7,False,True
+2025-07-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,71.38,kg,CRITICAL,False,Friday,7,False,True
+2025-07-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,34.18,kg,CRITICAL,False,Saturday,7,True,True
+2025-07-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,6.86,kg,HIGH,False,Saturday,7,True,True
+2025-07-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,18.22,kg,HIGH,False,Saturday,7,True,True
+2025-07-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,358.27,kg,MEDIUM,False,Sunday,7,True,True
+2025-07-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,110.5,kg,HIGH,False,Sunday,7,True,True
+2025-07-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,30.55,kg,CRITICAL,False,Monday,7,False,True
+2025-07-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,73.17,kg,MEDIUM,False,Monday,7,False,True
+2025-07-28,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,7.09,kg,HIGH,False,Monday,7,False,True
+2025-07-28,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,16.41,kg,MEDIUM,False,Monday,7,False,True
+2025-07-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,74.67,kg,HIGH,False,Monday,7,False,True
+2025-07-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,20.25,kg,HIGH,False,Tuesday,7,False,True
+2025-07-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,74.98,kg,MEDIUM,False,Tuesday,7,False,True
+2025-07-29,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,36.84,kg,LOW,False,Tuesday,7,False,True
+2025-07-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,43.77,kg,HIGH,False,Wednesday,7,False,True
+2025-07-30,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,15.5,kg,MEDIUM,False,Wednesday,7,False,True
+2025-07-30,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,49.39,kg,CRITICAL,False,Wednesday,7,False,True
+2025-07-31,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,40.11,kg,HIGH,False,Thursday,7,False,True
+2025-07-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,55.97,kg,CRITICAL,False,Thursday,7,False,True
+2025-07-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,27.7,kg,HIGH,False,Thursday,7,False,True
+2025-08-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,20.54,kg,MEDIUM,False,Friday,8,False,True
+2025-08-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,174.28,kg,CRITICAL,False,Friday,8,False,True
+2025-08-01,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,22.06,kg,MEDIUM,False,Friday,8,False,True
+2025-08-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,9.99,kg,HIGH,False,Saturday,8,True,True
+2025-08-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,238.04,kg,CRITICAL,False,Saturday,8,True,True
+2025-08-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,3.83,kg,LOW,False,Saturday,8,True,True
+2025-08-02,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,19.22,kg,LOW,False,Saturday,8,True,True
+2025-08-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,75.95,kg,HIGH,False,Sunday,8,True,True
+2025-08-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,6.89,kg,HIGH,False,Monday,8,False,True
+2025-08-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,98.91,kg,HIGH,False,Monday,8,False,True
+2025-08-04,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,9.34,kg,MEDIUM,False,Monday,8,False,True
+2025-08-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,17.99,kg,HIGH,False,Monday,8,False,True
+2025-08-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,63.06,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,29.11,kg,HIGH,False,Tuesday,8,False,True
+2025-08-05,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,36.04,kg,HIGH,False,Tuesday,8,False,True
+2025-08-05,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,45.99,kg,LOW,False,Tuesday,8,False,True
+2025-08-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,69.21,kg,HIGH,False,Tuesday,8,False,True
+2025-08-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,132.99,kg,CRITICAL,False,Wednesday,8,False,True
+2025-08-06,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,8.69,kg,HIGH,False,Wednesday,8,False,True
+2025-08-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,70.3,kg,MEDIUM,False,Wednesday,8,False,True
+2025-08-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,54.19,kg,HIGH,False,Thursday,8,False,True
+2025-08-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,64.83,kg,HIGH,False,Thursday,8,False,True
+2025-08-07,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,43.28,kg,MEDIUM,False,Thursday,8,False,True
+2025-08-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,40.59,kg,MEDIUM,False,Thursday,8,False,True
+2025-08-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,55.99,kg,CRITICAL,False,Friday,8,False,True
+2025-08-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,4.4,kg,MEDIUM,False,Friday,8,False,True
+2025-08-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,61.81,kg,MEDIUM,False,Friday,8,False,True
+2025-08-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,61.45,kg,MEDIUM,False,Saturday,8,True,True
+2025-08-09,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,22.38,kg,HIGH,False,Saturday,8,True,True
+2025-08-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,73.14,kg,HIGH,False,Saturday,8,True,True
+2025-08-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,133.98,kg,MEDIUM,False,Sunday,8,True,True
+2025-08-10,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,23.09,kg,LOW,False,Sunday,8,True,True
+2025-08-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,12.87,kg,CRITICAL,False,Sunday,8,True,True
+2025-08-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,7.6,kg,MEDIUM,False,Monday,8,False,True
+2025-08-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,5.91,kg,LOW,False,Monday,8,False,True
+2025-08-11,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,10.59,kg,HIGH,False,Monday,8,False,True
+2025-08-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,9.93,kg,HIGH,False,Monday,8,False,True
+2025-08-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,15.09,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,47.79,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-12,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,5.25,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-12,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,11.37,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,27.83,kg,HIGH,False,Tuesday,8,False,True
+2025-08-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,17.12,kg,CRITICAL,False,Wednesday,8,False,True
+2025-08-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,119.89,kg,CRITICAL,False,Wednesday,8,False,True
+2025-08-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,10.42,kg,HIGH,False,Thursday,8,False,True
+2025-08-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,112.85,kg,CRITICAL,False,Thursday,8,False,True
+2025-08-14,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,3.7,kg,CRITICAL,False,Thursday,8,False,True
+2025-08-14,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,72.51,kg,MEDIUM,False,Thursday,8,False,True
+2025-08-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,75.78,kg,LOW,False,Thursday,8,False,True
+2025-08-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,32.22,kg,MEDIUM,True,Friday,8,False,True
+2025-08-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,32.94,kg,HIGH,True,Friday,8,False,True
+2025-08-15,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,12.55,kg,MEDIUM,True,Friday,8,False,True
+2025-08-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,22.31,kg,MEDIUM,True,Friday,8,False,True
+2025-08-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,34.72,kg,CRITICAL,True,Friday,8,False,True
+2025-08-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,59.94,kg,MEDIUM,True,Saturday,8,True,True
+2025-08-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,7.83,kg,MEDIUM,True,Saturday,8,True,True
+2025-08-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,19.61,kg,HIGH,True,Saturday,8,True,True
+2025-08-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,53.78,kg,HIGH,True,Sunday,8,True,True
+2025-08-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,34.18,kg,CRITICAL,True,Sunday,8,True,True
+2025-08-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,20.73,kg,LOW,True,Sunday,8,True,True
+2025-08-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,64.52,kg,HIGH,True,Monday,8,False,True
+2025-08-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,85.31,kg,HIGH,True,Monday,8,False,True
+2025-08-18,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,2.91,kg,CRITICAL,True,Monday,8,False,True
+2025-08-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,21.58,kg,HIGH,True,Tuesday,8,False,True
+2025-08-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,16.64,kg,MEDIUM,True,Tuesday,8,False,True
+2025-08-19,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,19.81,kg,HIGH,True,Tuesday,8,False,True
+2025-08-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,43.23,kg,CRITICAL,True,Wednesday,8,False,True
+2025-08-20,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,11.13,kg,HIGH,True,Wednesday,8,False,True
+2025-08-20,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,70.68,kg,MEDIUM,True,Wednesday,8,False,True
+2025-08-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,53.33,kg,LOW,True,Wednesday,8,False,True
+2025-08-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,40.72,kg,HIGH,True,Thursday,8,False,True
+2025-08-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,131.23,kg,HIGH,True,Thursday,8,False,True
+2025-08-21,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,37.4,kg,MEDIUM,True,Thursday,8,False,True
+2025-08-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,30.78,kg,HIGH,True,Thursday,8,False,True
+2025-08-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,33.4,kg,CRITICAL,True,Thursday,8,False,True
+2025-08-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,6.15,kg,HIGH,False,Friday,8,False,True
+2025-08-22,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,31.97,kg,MEDIUM,False,Friday,8,False,True
+2025-08-22,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,44.94,kg,MEDIUM,False,Friday,8,False,True
+2025-08-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,33.2,kg,HIGH,False,Friday,8,False,True
+2025-08-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,56.65,kg,MEDIUM,False,Saturday,8,True,True
+2025-08-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,40.9,kg,MEDIUM,False,Saturday,8,True,True
+2025-08-23,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,11.46,kg,MEDIUM,False,Saturday,8,True,True
+2025-08-23,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,6.35,kg,MEDIUM,False,Saturday,8,True,True
+2025-08-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,13.74,kg,HIGH,False,Saturday,8,True,True
+2025-08-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,33.11,kg,LOW,False,Sunday,8,True,True
+2025-08-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,32.22,kg,MEDIUM,False,Sunday,8,True,True
+2025-08-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,14.74,kg,CRITICAL,False,Monday,8,False,True
+2025-08-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,20.85,kg,LOW,False,Monday,8,False,True
+2025-08-25,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,41.74,kg,LOW,False,Monday,8,False,True
+2025-08-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,63.48,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,15.91,kg,LOW,False,Tuesday,8,False,True
+2025-08-26,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,4.69,kg,LOW,False,Tuesday,8,False,True
+2025-08-26,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,100.22,kg,MEDIUM,False,Tuesday,8,False,True
+2025-08-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,24.95,kg,LOW,False,Wednesday,8,False,True
+2025-08-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,61.84,kg,MEDIUM,False,Wednesday,8,False,True
+2025-08-27,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,72.35,kg,HIGH,False,Wednesday,8,False,True
+2025-08-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,86.53,kg,HIGH,False,Wednesday,8,False,True
+2025-08-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,10.17,kg,HIGH,False,Thursday,8,False,True
+2025-08-28,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,49.74,kg,CRITICAL,False,Thursday,8,False,True
+2025-08-28,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,27.13,kg,MEDIUM,False,Thursday,8,False,True
+2025-08-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,39.08,kg,HIGH,False,Friday,8,False,True
+2025-08-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,117.14,kg,LOW,False,Friday,8,False,True
+2025-08-29,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,40.37,kg,LOW,False,Friday,8,False,True
+2025-08-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,30.15,kg,MEDIUM,False,Friday,8,False,True
+2025-08-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,87.04,kg,HIGH,False,Saturday,8,True,True
+2025-08-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,49.09,kg,MEDIUM,False,Saturday,8,True,True
+2025-08-30,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,16.59,kg,LOW,False,Saturday,8,True,True
+2025-08-30,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,52.66,kg,LOW,False,Saturday,8,True,True
+2025-08-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,160.68,kg,MEDIUM,False,Sunday,8,True,True
+2025-08-31,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,17.57,kg,MEDIUM,False,Sunday,8,True,True
+2025-08-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,40.08,kg,HIGH,False,Sunday,8,True,True
+2025-09-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,85.71,kg,HIGH,False,Monday,9,False,True
+2025-09-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,160.24,kg,MEDIUM,False,Monday,9,False,True
+2025-09-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,68.0,kg,MEDIUM,False,Monday,9,False,True
+2025-09-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,28.18,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,22.51,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,10.17,kg,HIGH,False,Tuesday,9,False,True
+2025-09-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,13.68,kg,LOW,False,Tuesday,9,False,True
+2025-09-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,64.61,kg,MEDIUM,False,Wednesday,9,False,True
+2025-09-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,37.68,kg,HIGH,False,Wednesday,9,False,True
+2025-09-03,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,23.64,kg,MEDIUM,False,Wednesday,9,False,True
+2025-09-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,100.16,kg,MEDIUM,False,Thursday,9,False,True
+2025-09-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,71.05,kg,HIGH,False,Thursday,9,False,True
+2025-09-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.91,kg,MEDIUM,False,Thursday,9,False,True
+2025-09-04,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,7.5,kg,HIGH,False,Thursday,9,False,True
+2025-09-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,25.73,kg,MEDIUM,False,Friday,9,False,True
+2025-09-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,28.34,kg,HIGH,False,Friday,9,False,True
+2025-09-05,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,16.26,kg,MEDIUM,False,Friday,9,False,True
+2025-09-05,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,33.53,kg,LOW,False,Friday,9,False,True
+2025-09-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,55.86,kg,HIGH,False,Friday,9,False,True
+2025-09-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,45.27,kg,HIGH,False,Saturday,9,True,True
+2025-09-06,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,9.49,kg,HIGH,False,Saturday,9,True,True
+2025-09-06,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,24.07,kg,HIGH,False,Saturday,9,True,True
+2025-09-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,61.8,kg,HIGH,False,Saturday,9,True,True
+2025-09-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,20.84,kg,HIGH,False,Sunday,9,True,True
+2025-09-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,36.95,kg,HIGH,False,Sunday,9,True,True
+2025-09-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,59.01,kg,HIGH,False,Sunday,9,True,True
+2025-09-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,84.72,kg,HIGH,False,Monday,9,False,True
+2025-09-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,67.82,kg,HIGH,False,Monday,9,False,True
+2025-09-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,15.63,kg,MEDIUM,False,Monday,9,False,True
+2025-09-08,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,72.01,kg,HIGH,False,Monday,9,False,True
+2025-09-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,49.89,kg,HIGH,False,Monday,9,False,True
+2025-09-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,44.96,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,35.73,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-09,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,31.52,kg,HIGH,False,Tuesday,9,False,True
+2025-09-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,46.98,kg,HIGH,False,Tuesday,9,False,True
+2025-09-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,24.54,kg,HIGH,False,Wednesday,9,False,True
+2025-09-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,99.48,kg,MEDIUM,False,Wednesday,9,False,True
+2025-09-10,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,22.28,kg,MEDIUM,False,Wednesday,9,False,True
+2025-09-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.25,kg,HIGH,False,Thursday,9,False,True
+2025-09-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,54.95,kg,MEDIUM,False,Thursday,9,False,True
+2025-09-11,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,7.48,kg,CRITICAL,False,Thursday,9,False,True
+2025-09-11,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,26.16,kg,LOW,False,Thursday,9,False,True
+2025-09-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,68.42,kg,MEDIUM,False,Thursday,9,False,True
+2025-09-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,11.45,kg,MEDIUM,False,Friday,9,False,True
+2025-09-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,19.33,kg,CRITICAL,False,Friday,9,False,True
+2025-09-12,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,28.21,kg,MEDIUM,False,Friday,9,False,True
+2025-09-12,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,28.08,kg,LOW,False,Friday,9,False,True
+2025-09-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,12.5,kg,HIGH,False,Friday,9,False,True
+2025-09-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,52.39,kg,HIGH,False,Saturday,9,True,True
+2025-09-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,11.91,kg,MEDIUM,False,Saturday,9,True,True
+2025-09-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,29.0,kg,CRITICAL,False,Sunday,9,True,True
+2025-09-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,63.95,kg,HIGH,False,Sunday,9,True,True
+2025-09-14,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,22.77,kg,MEDIUM,False,Sunday,9,True,True
+2025-09-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,17.71,kg,HIGH,False,Sunday,9,True,True
+2025-09-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,98.24,kg,MEDIUM,False,Monday,9,False,True
+2025-09-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,28.47,kg,MEDIUM,False,Monday,9,False,True
+2025-09-15,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,45.3,kg,HIGH,False,Monday,9,False,True
+2025-09-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,8.64,kg,LOW,False,Monday,9,False,True
+2025-09-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,25.58,kg,HIGH,False,Monday,9,False,True
+2025-09-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,12.22,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-16,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,17.29,kg,HIGH,False,Tuesday,9,False,True
+2025-09-16,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,35.64,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,38.8,kg,HIGH,False,Tuesday,9,False,True
+2025-09-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,21.87,kg,HIGH,False,Wednesday,9,False,True
+2025-09-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,11.18,kg,HIGH,False,Wednesday,9,False,True
+2025-09-17,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.92,kg,HIGH,False,Wednesday,9,False,True
+2025-09-17,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,33.68,kg,LOW,False,Wednesday,9,False,True
+2025-09-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,64.24,kg,CRITICAL,False,Wednesday,9,False,True
+2025-09-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,13.2,kg,CRITICAL,False,Thursday,9,False,True
+2025-09-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,57.68,kg,CRITICAL,False,Thursday,9,False,True
+2025-09-18,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,18.25,kg,HIGH,False,Thursday,9,False,True
+2025-09-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,61.6,kg,HIGH,False,Friday,9,False,True
+2025-09-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,19.6,kg,MEDIUM,False,Friday,9,False,True
+2025-09-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,28.26,kg,MEDIUM,False,Friday,9,False,True
+2025-09-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,18.44,kg,HIGH,False,Saturday,9,True,True
+2025-09-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,99.99,kg,MEDIUM,False,Saturday,9,True,True
+2025-09-20,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,44.37,kg,MEDIUM,False,Saturday,9,True,True
+2025-09-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,17.12,kg,HIGH,False,Saturday,9,True,True
+2025-09-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,36.05,kg,MEDIUM,False,Sunday,9,True,True
+2025-09-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,84.66,kg,HIGH,False,Sunday,9,True,True
+2025-09-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,13.48,kg,MEDIUM,False,Sunday,9,True,True
+2025-09-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,26.16,kg,HIGH,False,Sunday,9,True,True
+2025-09-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,39.59,kg,CRITICAL,False,Monday,9,False,True
+2025-09-22,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,6.4,kg,MEDIUM,False,Monday,9,False,True
+2025-09-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,22.15,kg,MEDIUM,False,Monday,9,False,True
+2025-09-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,49.24,kg,HIGH,False,Tuesday,9,False,True
+2025-09-23,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,3.53,kg,HIGH,False,Tuesday,9,False,True
+2025-09-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,36.74,kg,CRITICAL,False,Tuesday,9,False,True
+2025-09-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,90.66,kg,MEDIUM,False,Wednesday,9,False,True
+2025-09-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,143.38,kg,LOW,False,Wednesday,9,False,True
+2025-09-24,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,2.73,kg,LOW,False,Wednesday,9,False,True
+2025-09-24,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,29.62,kg,HIGH,False,Wednesday,9,False,True
+2025-09-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,18.64,kg,MEDIUM,False,Wednesday,9,False,True
+2025-09-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,29.0,kg,MEDIUM,False,Thursday,9,False,True
+2025-09-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,8.17,kg,HIGH,False,Thursday,9,False,True
+2025-09-25,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,8.44,kg,HIGH,False,Thursday,9,False,True
+2025-09-25,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,30.64,kg,CRITICAL,False,Thursday,9,False,True
+2025-09-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,101.03,kg,MEDIUM,False,Thursday,9,False,True
+2025-09-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.06,kg,MEDIUM,False,Friday,9,False,True
+2025-09-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,41.11,kg,HIGH,False,Friday,9,False,True
+2025-09-26,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,10.19,kg,MEDIUM,False,Friday,9,False,True
+2025-09-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,65.02,kg,HIGH,False,Friday,9,False,True
+2025-09-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,117.06,kg,MEDIUM,False,Saturday,9,True,True
+2025-09-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,215.65,kg,MEDIUM,False,Saturday,9,True,True
+2025-09-27,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,85.99,kg,MEDIUM,False,Saturday,9,True,True
+2025-09-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,43.61,kg,MEDIUM,False,Sunday,9,True,True
+2025-09-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,95.32,kg,HIGH,False,Sunday,9,True,True
+2025-09-28,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,69.43,kg,HIGH,False,Sunday,9,True,True
+2025-09-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,70.07,kg,MEDIUM,False,Sunday,9,True,True
+2025-09-29,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.14,kg,LOW,False,Monday,9,False,True
+2025-09-29,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,40.82,kg,LOW,False,Monday,9,False,True
+2025-09-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,77.61,kg,MEDIUM,False,Monday,9,False,True
+2025-09-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,75.0,kg,MEDIUM,False,Tuesday,9,False,True
+2025-09-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,161.53,kg,CRITICAL,False,Tuesday,9,False,True
+2025-09-30,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,6.28,kg,LOW,False,Tuesday,9,False,True
+2025-09-30,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,15.77,kg,LOW,False,Tuesday,9,False,True
+2025-10-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,22.17,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-01,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,53.96,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,34.36,kg,HIGH,False,Wednesday,10,False,True
+2025-10-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,54.51,kg,CRITICAL,False,Thursday,10,False,True
+2025-10-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,26.13,kg,HIGH,False,Thursday,10,False,True
+2025-10-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,19.68,kg,LOW,False,Thursday,10,False,True
+2025-10-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,35.54,kg,MEDIUM,False,Thursday,10,False,True
+2025-10-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,14.6,kg,HIGH,False,Friday,10,False,True
+2025-10-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,164.91,kg,HIGH,False,Friday,10,False,True
+2025-10-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,90.18,kg,HIGH,False,Friday,10,False,True
+2025-10-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,45.37,kg,HIGH,False,Saturday,10,True,True
+2025-10-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,7.21,kg,CRITICAL,False,Saturday,10,True,True
+2025-10-04,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,49.78,kg,LOW,False,Saturday,10,True,True
+2025-10-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,100.65,kg,HIGH,False,Saturday,10,True,True
+2025-10-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,58.8,kg,CRITICAL,False,Sunday,10,True,True
+2025-10-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,27.93,kg,MEDIUM,False,Sunday,10,True,True
+2025-10-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,37.91,kg,MEDIUM,False,Sunday,10,True,True
+2025-10-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,18.53,kg,HIGH,False,Monday,10,False,True
+2025-10-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,75.11,kg,MEDIUM,False,Monday,10,False,True
+2025-10-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,39.14,kg,CRITICAL,False,Monday,10,False,True
+2025-10-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,35.1,kg,HIGH,False,Tuesday,10,False,True
+2025-10-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,13.2,kg,HIGH,False,Tuesday,10,False,True
+2025-10-07,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.94,kg,CRITICAL,False,Tuesday,10,False,True
+2025-10-07,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,30.67,kg,HIGH,False,Tuesday,10,False,True
+2025-10-07,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,29.24,kg,CRITICAL,False,Tuesday,10,False,True
+2025-10-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,23.23,kg,HIGH,False,Wednesday,10,False,True
+2025-10-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,83.91,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,21.5,kg,HIGH,False,Wednesday,10,False,True
+2025-10-08,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,84.6,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-08,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,86.72,kg,CRITICAL,False,Wednesday,10,False,True
+2025-10-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,5.7,kg,MEDIUM,False,Thursday,10,False,True
+2025-10-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,39.8,kg,LOW,False,Thursday,10,False,True
+2025-10-09,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,9.37,kg,MEDIUM,False,Thursday,10,False,True
+2025-10-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,38.2,kg,HIGH,False,Thursday,10,False,True
+2025-10-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,36.4,kg,HIGH,False,Thursday,10,False,True
+2025-10-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,39.67,kg,HIGH,False,Friday,10,False,True
+2025-10-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,46.86,kg,MEDIUM,False,Friday,10,False,True
+2025-10-10,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,69.86,kg,HIGH,False,Friday,10,False,True
+2025-10-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,53.75,kg,CRITICAL,False,Friday,10,False,True
+2025-10-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,51.02,kg,CRITICAL,False,Saturday,10,True,True
+2025-10-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,164.26,kg,LOW,False,Saturday,10,True,True
+2025-10-11,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,11.6,kg,HIGH,False,Saturday,10,True,True
+2025-10-11,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,23.9,kg,LOW,False,Saturday,10,True,True
+2025-10-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,31.17,kg,MEDIUM,False,Sunday,10,True,True
+2025-10-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,25.23,kg,HIGH,False,Sunday,10,True,True
+2025-10-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,51.66,kg,HIGH,False,Monday,10,False,True
+2025-10-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,18.43,kg,HIGH,False,Monday,10,False,True
+2025-10-13,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,11.36,kg,MEDIUM,False,Monday,10,False,True
+2025-10-13,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,70.29,kg,LOW,False,Monday,10,False,True
+2025-10-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,36.52,kg,CRITICAL,False,Tuesday,10,False,True
+2025-10-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,30.9,kg,MEDIUM,False,Tuesday,10,False,True
+2025-10-14,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,21.55,kg,MEDIUM,False,Tuesday,10,False,True
+2025-10-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,15.14,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,91.27,kg,HIGH,False,Wednesday,10,False,True
+2025-10-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,19.03,kg,LOW,False,Wednesday,10,False,True
+2025-10-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,16.69,kg,HIGH,False,Wednesday,10,False,True
+2025-10-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,13.44,kg,HIGH,False,Thursday,10,False,True
+2025-10-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,151.3,kg,MEDIUM,False,Thursday,10,False,True
+2025-10-16,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,18.3,kg,HIGH,False,Thursday,10,False,True
+2025-10-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,29.71,kg,HIGH,False,Friday,10,False,True
+2025-10-17,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,12.39,kg,HIGH,False,Friday,10,False,True
+2025-10-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,52.8,kg,HIGH,False,Friday,10,False,True
+2025-10-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,44.51,kg,MEDIUM,False,Saturday,10,True,True
+2025-10-18,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,23.73,kg,LOW,False,Saturday,10,True,True
+2025-10-18,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,44.31,kg,CRITICAL,False,Saturday,10,True,True
+2025-10-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,68.96,kg,HIGH,False,Saturday,10,True,True
+2025-10-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,42.6,kg,HIGH,False,Sunday,10,True,True
+2025-10-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,74.39,kg,MEDIUM,False,Sunday,10,True,True
+2025-10-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,78.13,kg,HIGH,False,Monday,10,False,True
+2025-10-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,34.47,kg,MEDIUM,False,Monday,10,False,True
+2025-10-20,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,41.92,kg,MEDIUM,False,Monday,10,False,True
+2025-10-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,50.58,kg,MEDIUM,False,Tuesday,10,False,True
+2025-10-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,176.74,kg,LOW,False,Tuesday,10,False,True
+2025-10-21,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,27.52,kg,MEDIUM,False,Tuesday,10,False,True
+2025-10-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,71.13,kg,HIGH,False,Tuesday,10,False,True
+2025-10-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,30.54,kg,HIGH,True,Wednesday,10,False,True
+2025-10-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,39.83,kg,CRITICAL,True,Wednesday,10,False,True
+2025-10-22,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,26.2,kg,MEDIUM,True,Wednesday,10,False,True
+2025-10-22,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,56.02,kg,HIGH,True,Wednesday,10,False,True
+2025-10-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,87.7,kg,MEDIUM,True,Wednesday,10,False,True
+2025-10-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,20.29,kg,LOW,True,Thursday,10,False,True
+2025-10-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,104.11,kg,CRITICAL,True,Thursday,10,False,True
+2025-10-23,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,87.43,kg,MEDIUM,True,Thursday,10,False,True
+2025-10-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,63.37,kg,HIGH,True,Friday,10,False,True
+2025-10-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,32.67,kg,HIGH,True,Friday,10,False,True
+2025-10-24,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,20.95,kg,HIGH,True,Friday,10,False,True
+2025-10-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,15.79,kg,HIGH,True,Friday,10,False,True
+2025-10-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,28.26,kg,CRITICAL,True,Saturday,10,True,True
+2025-10-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,141.32,kg,MEDIUM,True,Saturday,10,True,True
+2025-10-25,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,9.27,kg,CRITICAL,True,Saturday,10,True,True
+2025-10-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,62.9,kg,CRITICAL,True,Saturday,10,True,True
+2025-10-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,23.54,kg,MEDIUM,True,Sunday,10,True,True
+2025-10-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,132.04,kg,HIGH,True,Sunday,10,True,True
+2025-10-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,11.25,kg,HIGH,True,Sunday,10,True,True
+2025-10-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,61.0,kg,MEDIUM,True,Monday,10,False,True
+2025-10-27,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,50.69,kg,MEDIUM,True,Monday,10,False,True
+2025-10-27,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,8.23,kg,HIGH,True,Monday,10,False,True
+2025-10-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,111.07,kg,CRITICAL,True,Monday,10,False,True
+2025-10-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,51.8,kg,CRITICAL,True,Tuesday,10,False,True
+2025-10-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,15.49,kg,MEDIUM,True,Tuesday,10,False,True
+2025-10-28,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,10.33,kg,HIGH,True,Tuesday,10,False,True
+2025-10-28,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,132.18,kg,MEDIUM,True,Tuesday,10,False,True
+2025-10-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,124.01,kg,HIGH,True,Tuesday,10,False,True
+2025-10-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,41.48,kg,HIGH,False,Wednesday,10,False,True
+2025-10-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,46.59,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-29,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,62.77,kg,MEDIUM,False,Wednesday,10,False,True
+2025-10-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,73.41,kg,LOW,False,Wednesday,10,False,True
+2025-10-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,96.67,kg,HIGH,False,Thursday,10,False,True
+2025-10-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,41.39,kg,CRITICAL,False,Thursday,10,False,True
+2025-10-30,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,70.7,kg,MEDIUM,False,Thursday,10,False,True
+2025-10-30,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,63.06,kg,LOW,False,Thursday,10,False,True
+2025-10-31,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,9.73,kg,HIGH,False,Friday,10,False,True
+2025-10-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,20.8,kg,MEDIUM,False,Friday,10,False,True
+2025-10-31,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,21.75,kg,MEDIUM,False,Friday,10,False,True
+2025-10-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,77.97,kg,MEDIUM,False,Friday,10,False,True
+2025-11-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,125.42,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-01,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,37.59,kg,CRITICAL,False,Saturday,11,True,True
+2025-11-01,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,35.14,kg,HIGH,False,Saturday,11,True,True
+2025-11-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,58.5,kg,CRITICAL,False,Sunday,11,True,True
+2025-11-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,6.77,kg,HIGH,False,Sunday,11,True,True
+2025-11-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,42.81,kg,HIGH,False,Monday,11,False,True
+2025-11-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,23.25,kg,HIGH,False,Monday,11,False,True
+2025-11-03,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,19.81,kg,LOW,False,Monday,11,False,True
+2025-11-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,18.46,kg,HIGH,False,Monday,11,False,True
+2025-11-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,69.96,kg,HIGH,False,Tuesday,11,False,True
+2025-11-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,81.1,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,7.68,kg,CRITICAL,False,Tuesday,11,False,True
+2025-11-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,74.0,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,37.39,kg,HIGH,False,Wednesday,11,False,True
+2025-11-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,102.31,kg,MEDIUM,False,Wednesday,11,False,True
+2025-11-05,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,11.9,kg,LOW,False,Wednesday,11,False,True
+2025-11-05,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,17.05,kg,CRITICAL,False,Wednesday,11,False,True
+2025-11-05,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,67.55,kg,HIGH,False,Wednesday,11,False,True
+2025-11-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,15.17,kg,MEDIUM,False,Thursday,11,False,True
+2025-11-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,29.6,kg,MEDIUM,False,Thursday,11,False,True
+2025-11-06,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,3.0,kg,CRITICAL,False,Thursday,11,False,True
+2025-11-06,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,19.82,kg,LOW,False,Thursday,11,False,True
+2025-11-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,23.51,kg,HIGH,False,Thursday,11,False,True
+2025-11-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,35.03,kg,HIGH,False,Friday,11,False,True
+2025-11-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,36.83,kg,MEDIUM,False,Friday,11,False,True
+2025-11-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,30.76,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,43.86,kg,HIGH,False,Saturday,11,True,True
+2025-11-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,12.97,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-08,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,38.24,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,97.31,kg,MEDIUM,False,Sunday,11,True,True
+2025-11-09,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,33.41,kg,MEDIUM,False,Sunday,11,True,True
+2025-11-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,129.06,kg,HIGH,False,Sunday,11,True,True
+2025-11-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,28.3,kg,MEDIUM,False,Monday,11,False,True
+2025-11-10,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,65.39,kg,LOW,False,Monday,11,False,True
+2025-11-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,86.36,kg,HIGH,False,Monday,11,False,True
+2025-11-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,20.87,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,24.88,kg,LOW,False,Tuesday,11,False,True
+2025-11-11,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,13.57,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-11,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,91.38,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-12,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,58.48,kg,HIGH,False,Wednesday,11,False,True
+2025-11-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,115.9,kg,HIGH,False,Wednesday,11,False,True
+2025-11-12,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,35.6,kg,HIGH,False,Wednesday,11,False,True
+2025-11-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,54.54,kg,HIGH,False,Wednesday,11,False,True
+2025-11-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,72.76,kg,HIGH,False,Thursday,11,False,True
+2025-11-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,46.36,kg,HIGH,False,Thursday,11,False,True
+2025-11-13,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,13.28,kg,MEDIUM,False,Thursday,11,False,True
+2025-11-13,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,48.06,kg,MEDIUM,False,Thursday,11,False,True
+2025-11-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,18.08,kg,CRITICAL,False,Thursday,11,False,True
+2025-11-14,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,27.78,kg,HIGH,False,Friday,11,False,True
+2025-11-14,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,93.0,kg,HIGH,False,Friday,11,False,True
+2025-11-14,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.21,kg,HIGH,False,Friday,11,False,True
+2025-11-14,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,59.48,kg,LOW,False,Friday,11,False,True
+2025-11-14,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,34.33,kg,HIGH,False,Friday,11,False,True
+2025-11-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,15.84,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,30.47,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,43.46,kg,LOW,False,Saturday,11,True,True
+2025-11-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,98.28,kg,HIGH,False,Saturday,11,True,True
+2025-11-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,78.68,kg,MEDIUM,False,Sunday,11,True,True
+2025-11-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,49.7,kg,CRITICAL,False,Sunday,11,True,True
+2025-11-16,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,38.79,kg,LOW,False,Sunday,11,True,True
+2025-11-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,20.24,kg,HIGH,False,Sunday,11,True,True
+2025-11-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,44.35,kg,MEDIUM,False,Monday,11,False,True
+2025-11-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,24.55,kg,HIGH,False,Monday,11,False,True
+2025-11-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,15.36,kg,HIGH,False,Monday,11,False,True
+2025-11-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,26.53,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,41.04,kg,HIGH,False,Tuesday,11,False,True
+2025-11-18,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,3.62,kg,MEDIUM,False,Tuesday,11,False,True
+2025-11-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,12.08,kg,HIGH,False,Tuesday,11,False,True
+2025-11-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,43.97,kg,MEDIUM,False,Wednesday,11,False,True
+2025-11-19,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,22.56,kg,CRITICAL,False,Wednesday,11,False,True
+2025-11-19,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,26.89,kg,CRITICAL,False,Wednesday,11,False,True
+2025-11-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,13.08,kg,HIGH,False,Wednesday,11,False,True
+2025-11-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,69.67,kg,MEDIUM,False,Thursday,11,False,True
+2025-11-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,48.91,kg,MEDIUM,False,Thursday,11,False,True
+2025-11-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,57.2,kg,HIGH,False,Thursday,11,False,True
+2025-11-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,65.47,kg,MEDIUM,False,Friday,11,False,True
+2025-11-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,50.77,kg,LOW,False,Friday,11,False,True
+2025-11-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,72.02,kg,MEDIUM,False,Friday,11,False,True
+2025-11-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,44.12,kg,LOW,True,Saturday,11,True,True
+2025-11-22,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,16.47,kg,HIGH,True,Saturday,11,True,True
+2025-11-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,66.8,kg,HIGH,True,Saturday,11,True,True
+2025-11-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,79.08,kg,HIGH,True,Sunday,11,True,True
+2025-11-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,28.64,kg,MEDIUM,True,Sunday,11,True,True
+2025-11-23,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,57.29,kg,MEDIUM,True,Sunday,11,True,True
+2025-11-24,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,67.26,kg,MEDIUM,True,Monday,11,False,True
+2025-11-24,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,27.59,kg,HIGH,True,Monday,11,False,True
+2025-11-24,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,52.7,kg,MEDIUM,True,Monday,11,False,True
+2025-11-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,80.09,kg,HIGH,True,Monday,11,False,True
+2025-11-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,64.02,kg,MEDIUM,True,Tuesday,11,False,True
+2025-11-25,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,29.15,kg,MEDIUM,True,Tuesday,11,False,True
+2025-11-25,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,23.36,kg,HIGH,True,Tuesday,11,False,True
+2025-11-25,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,60.58,kg,MEDIUM,True,Tuesday,11,False,True
+2025-11-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,73.76,kg,HIGH,True,Tuesday,11,False,True
+2025-11-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,77.57,kg,HIGH,True,Wednesday,11,False,True
+2025-11-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,87.09,kg,CRITICAL,True,Wednesday,11,False,True
+2025-11-26,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,19.7,kg,LOW,True,Wednesday,11,False,True
+2025-11-26,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,73.72,kg,CRITICAL,True,Wednesday,11,False,True
+2025-11-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,125.93,kg,MEDIUM,True,Thursday,11,False,True
+2025-11-27,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,36.93,kg,MEDIUM,True,Thursday,11,False,True
+2025-11-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,11.18,kg,HIGH,True,Thursday,11,False,True
+2025-11-28,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,23.45,kg,MEDIUM,True,Friday,11,False,True
+2025-11-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,120.77,kg,HIGH,True,Friday,11,False,True
+2025-11-28,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,14.99,kg,MEDIUM,True,Friday,11,False,True
+2025-11-28,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,60.07,kg,MEDIUM,True,Friday,11,False,True
+2025-11-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,28.12,kg,HIGH,False,Saturday,11,True,True
+2025-11-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,78.01,kg,HIGH,False,Saturday,11,True,True
+2025-11-29,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,37.23,kg,HIGH,False,Saturday,11,True,True
+2025-11-29,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,63.11,kg,MEDIUM,False,Saturday,11,True,True
+2025-11-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,94.68,kg,HIGH,False,Saturday,11,True,True
+2025-11-30,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,92.98,kg,HIGH,False,Sunday,11,True,True
+2025-11-30,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,65.07,kg,MEDIUM,False,Sunday,11,True,True
+2025-11-30,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,47.79,kg,HIGH,False,Sunday,11,True,True
+2025-12-01,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,62.98,kg,HIGH,False,Monday,12,False,True
+2025-12-01,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,28.09,kg,HIGH,False,Monday,12,False,True
+2025-12-01,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,21.46,kg,MEDIUM,False,Monday,12,False,True
+2025-12-01,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,77.05,kg,LOW,False,Monday,12,False,True
+2025-12-02,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,40.94,kg,HIGH,False,Tuesday,12,False,True
+2025-12-02,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,85.96,kg,HIGH,False,Tuesday,12,False,True
+2025-12-02,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,13.7,kg,HIGH,False,Tuesday,12,False,True
+2025-12-02,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,50.78,kg,LOW,False,Tuesday,12,False,True
+2025-12-02,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,89.69,kg,MEDIUM,False,Tuesday,12,False,True
+2025-12-03,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,32.91,kg,HIGH,False,Wednesday,12,False,True
+2025-12-03,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,64.68,kg,MEDIUM,False,Wednesday,12,False,True
+2025-12-03,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,10.45,kg,HIGH,False,Wednesday,12,False,True
+2025-12-03,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,34.82,kg,MEDIUM,False,Wednesday,12,False,True
+2025-12-03,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,21.26,kg,CRITICAL,False,Wednesday,12,False,True
+2025-12-04,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,60.8,kg,HIGH,False,Thursday,12,False,True
+2025-12-04,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,24.34,kg,MEDIUM,False,Thursday,12,False,True
+2025-12-04,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.59,kg,LOW,False,Thursday,12,False,True
+2025-12-04,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,41.08,kg,MEDIUM,False,Thursday,12,False,True
+2025-12-04,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,116.03,kg,HIGH,False,Thursday,12,False,True
+2025-12-05,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,72.92,kg,HIGH,False,Friday,12,False,True
+2025-12-05,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,74.65,kg,MEDIUM,False,Friday,12,False,True
+2025-12-05,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,28.1,kg,MEDIUM,False,Friday,12,False,True
+2025-12-05,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,76.89,kg,MEDIUM,False,Friday,12,False,True
+2025-12-06,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,29.21,kg,MEDIUM,False,Saturday,12,True,True
+2025-12-06,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,70.42,kg,HIGH,False,Saturday,12,True,True
+2025-12-06,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,10.31,kg,HIGH,False,Saturday,12,True,True
+2025-12-06,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,40.34,kg,HIGH,False,Saturday,12,True,True
+2025-12-07,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,59.26,kg,HIGH,False,Sunday,12,True,True
+2025-12-07,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,82.52,kg,HIGH,False,Sunday,12,True,True
+2025-12-08,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,42.2,kg,MEDIUM,False,Monday,12,False,True
+2025-12-08,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,37.98,kg,HIGH,False,Monday,12,False,True
+2025-12-08,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,51.61,kg,LOW,False,Monday,12,False,True
+2025-12-08,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,55.97,kg,LOW,False,Monday,12,False,True
+2025-12-09,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,73.55,kg,HIGH,False,Tuesday,12,False,True
+2025-12-09,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,67.53,kg,MEDIUM,False,Tuesday,12,False,True
+2025-12-09,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,59.85,kg,HIGH,False,Tuesday,12,False,True
+2025-12-09,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,84.53,kg,HIGH,False,Tuesday,12,False,True
+2025-12-10,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,32.74,kg,HIGH,False,Wednesday,12,False,True
+2025-12-10,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,9.84,kg,MEDIUM,False,Wednesday,12,False,True
+2025-12-10,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,75.35,kg,MEDIUM,False,Wednesday,12,False,True
+2025-12-10,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,20.26,kg,HIGH,False,Wednesday,12,False,True
+2025-12-11,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,55.12,kg,HIGH,False,Thursday,12,False,True
+2025-12-11,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,75.6,kg,HIGH,False,Thursday,12,False,True
+2025-12-11,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,9.87,kg,MEDIUM,False,Thursday,12,False,True
+2025-12-11,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,26.54,kg,LOW,False,Thursday,12,False,True
+2025-12-11,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,14.68,kg,HIGH,False,Thursday,12,False,True
+2025-12-12,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,111.33,kg,MEDIUM,False,Friday,12,False,True
+2025-12-12,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,9.71,kg,MEDIUM,False,Friday,12,False,True
+2025-12-12,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,67.14,kg,MEDIUM,False,Friday,12,False,True
+2025-12-12,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,50.06,kg,CRITICAL,False,Friday,12,False,True
+2025-12-13,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,108.89,kg,HIGH,False,Saturday,12,True,True
+2025-12-13,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,25.87,kg,MEDIUM,False,Saturday,12,True,True
+2025-12-13,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,6.12,kg,HIGH,False,Saturday,12,True,True
+2025-12-13,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,90.68,kg,MEDIUM,False,Saturday,12,True,True
+2025-12-13,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,82.44,kg,MEDIUM,False,Saturday,12,True,True
+2025-12-15,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,85.63,kg,MEDIUM,True,Monday,12,False,True
+2025-12-15,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,24.53,kg,HIGH,True,Monday,12,False,True
+2025-12-15,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,26.73,kg,MEDIUM,True,Monday,12,False,True
+2025-12-15,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,53.38,kg,LOW,True,Monday,12,False,True
+2025-12-15,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,36.0,kg,HIGH,True,Monday,12,False,True
+2025-12-16,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,51.36,kg,HIGH,True,Tuesday,12,False,True
+2025-12-16,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,56.4,kg,MEDIUM,True,Tuesday,12,False,True
+2025-12-16,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,7.53,kg,MEDIUM,True,Tuesday,12,False,True
+2025-12-16,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,12.78,kg,MEDIUM,True,Tuesday,12,False,True
+2025-12-16,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,51.94,kg,CRITICAL,True,Tuesday,12,False,True
+2025-12-17,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,28.69,kg,HIGH,True,Wednesday,12,False,True
+2025-12-17,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,123.82,kg,HIGH,True,Wednesday,12,False,True
+2025-12-17,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,7.34,kg,MEDIUM,True,Wednesday,12,False,True
+2025-12-17,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,39.88,kg,MEDIUM,True,Wednesday,12,False,True
+2025-12-18,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,59.14,kg,HIGH,True,Thursday,12,False,True
+2025-12-18,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,20.45,kg,HIGH,True,Thursday,12,False,True
+2025-12-18,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,34.98,kg,HIGH,True,Thursday,12,False,True
+2025-12-18,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,40.24,kg,MEDIUM,True,Thursday,12,False,True
+2025-12-18,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,39.56,kg,MEDIUM,True,Thursday,12,False,True
+2025-12-19,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,6.29,kg,MEDIUM,True,Friday,12,False,True
+2025-12-19,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,171.02,kg,HIGH,True,Friday,12,False,True
+2025-12-19,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,36.91,kg,MEDIUM,True,Friday,12,False,True
+2025-12-19,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,33.36,kg,MEDIUM,True,Friday,12,False,True
+2025-12-19,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,51.23,kg,MEDIUM,True,Friday,12,False,True
+2025-12-20,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,40.14,kg,MEDIUM,True,Saturday,12,True,True
+2025-12-20,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,32.01,kg,LOW,True,Saturday,12,True,True
+2025-12-20,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,20.77,kg,MEDIUM,True,Saturday,12,True,True
+2025-12-20,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,30.92,kg,MEDIUM,True,Saturday,12,True,True
+2025-12-20,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,78.41,kg,HIGH,True,Saturday,12,True,True
+2025-12-21,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,29.82,kg,HIGH,True,Sunday,12,True,True
+2025-12-21,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,124.39,kg,HIGH,True,Sunday,12,True,True
+2025-12-21,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,54.78,kg,MEDIUM,True,Sunday,12,True,True
+2025-12-21,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,80.87,kg,MEDIUM,True,Sunday,12,True,True
+2025-12-22,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,37.08,kg,LOW,True,Monday,12,False,True
+2025-12-22,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,54.91,kg,MEDIUM,True,Monday,12,False,True
+2025-12-22,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,6.17,kg,MEDIUM,True,Monday,12,False,True
+2025-12-22,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,41.62,kg,MEDIUM,True,Monday,12,False,True
+2025-12-22,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,78.44,kg,MEDIUM,True,Monday,12,False,True
+2025-12-23,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,45.41,kg,MEDIUM,True,Tuesday,12,False,True
+2025-12-23,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,60.75,kg,HIGH,True,Tuesday,12,False,True
+2025-12-23,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,18.94,kg,MEDIUM,True,Tuesday,12,False,True
+2025-12-23,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,62.59,kg,MEDIUM,True,Tuesday,12,False,True
+2025-12-24,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,28.83,kg,MEDIUM,True,Wednesday,12,False,True
+2025-12-24,Sunrise Youth Foundation,hist-rec-004,NGO,Cooked Meals,7.96,kg,MEDIUM,True,Wednesday,12,False,True
+2025-12-24,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,91.95,kg,HIGH,True,Wednesday,12,False,True
+2025-12-25,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,51.96,kg,MEDIUM,True,Thursday,12,False,True
+2025-12-25,Sunrise Youth Foundation,hist-rec-004,NGO,Fresh Produce,48.86,kg,HIGH,True,Thursday,12,False,True
+2025-12-25,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,43.31,kg,HIGH,True,Thursday,12,False,True
+2025-12-26,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,84.64,kg,HIGH,True,Friday,12,False,True
+2025-12-26,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Food Surplus,62.83,kg,HIGH,True,Friday,12,False,True
+2025-12-27,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,140.52,kg,MEDIUM,True,Saturday,12,True,True
+2025-12-27,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,74.33,kg,HIGH,True,Saturday,12,True,True
+2025-12-27,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,97.75,kg,HIGH,True,Saturday,12,True,True
+2025-12-28,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,32.37,kg,HIGH,True,Sunday,12,True,True
+2025-12-28,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Cooked Meals,127.42,kg,MEDIUM,True,Sunday,12,True,True
+2025-12-29,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Cooked Meals,31.18,kg,HIGH,False,Monday,12,False,True
+2025-12-29,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Fresh Produce,129.61,kg,HIGH,False,Monday,12,False,True
+2025-12-29,City Bridge Women's NGO,hist-rec-003,NGO,Bakery Items,19.54,kg,LOW,False,Monday,12,False,True
+2025-12-29,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,114.31,kg,MEDIUM,False,Monday,12,False,True
+2025-12-30,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,60.06,kg,HIGH,False,Tuesday,12,False,True
+2025-12-30,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,120.58,kg,HIGH,False,Tuesday,12,False,True
+2025-12-31,Hope Community Shelter,hist-rec-001,COMMUNITY_SHELTER,Food Surplus,13.36,kg,MEDIUM,False,Wednesday,12,False,True
+2025-12-31,Metro Food Bank NGO,hist-rec-002,FOOD_BANK,Bakery Items,12.14,kg,HIGH,False,Wednesday,12,False,True
+2025-12-31,City Bridge Women's NGO,hist-rec-003,NGO,Cooked Meals,47.94,kg,LOW,False,Wednesday,12,False,True
+2025-12-31,Riverside Community Shelter,hist-rec-005,COMMUNITY_SHELTER,Food Surplus,100.12,kg,HIGH,False,Wednesday,12,False,True
